@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lexicon>
+
+<DATE>
+
+<TIMEX3 id="DATE-1" sequence="الثورة الروسية" value="1917"/>
+<TIMEX3 id="DATE-2" sequence="معركة بريطانيا" value="1940"/>
+<TIMEX3 id="DATE-3" sequence="معركة إيفشام" value="4-08-1265"/>
+<TIMEX3 id="DATE-4" sequence="معركة كورسك" value="1943"/>
+<TIMEX3 id="DATE-5" sequence="ثورة الفلاحين" value="1381"/>
+<TIMEX3 id="DATE-6" sequence="الحرب الصينيةالهندية" value="1962"/>
+<TIMEX3 id="DATE-7" sequence="العدوان الثلاثي" value="XX-10-1956"/>
+<TIMEX3 id="DATE-8" sequence="حرب أكتوبر" value="XX-10-1973"/>
+<TIMEX3 id="DATE-9" sequence="حرب شابا الأولى" value="1977"/>
+<TIMEX3 id="DATE-10" sequence="الهجوم النووي" value="XX-08-1945"/>
+<TIMEX3 id="DATE-11" sequence="مجزرة حماة" value="28-02-1982"/>
+<TIMEX3 id="DATE-12" sequence="معركة ليمنوس" value="XX-XX-1913"/>
+<TIMEX3 id="DATE-13" sequence="معركة سلنكمان" value="19-08-1691"/>
+<TIMEX3 id="DATE-14" sequence="معركة زانطة" value="11-09-1697"/>
+<TIMEX3 id="DATE-15" sequence="معركة المزرعة" value="XX-08-1925"/>
+<TIMEX3 id="DATE-16" sequence="معركة القادسية" value="XX-XX-636"/>
+<TIMEX3 id="DATE-17" sequence="هجوم بروسيلوف" value="XX-XX-1916"/>
+<TIMEX3 id="DATE-18" sequence="غزو المانشو الأول لكوريا" value="XX-XX-1627"/>
+<TIMEX3 id="DATE-19" sequence="عملية مايكل" value="XX-XX-1918"/>
+<TIMEX3 id="DATE-20" sequence="معركة المحمرة" value="XX-XX-1980"/>
+<TIMEX3 id="DATE-21" sequence="براغينغ رايتس" value="25-10-2009"/>
+<TIMEX3 id="DATE-22" sequence="الانتخابات البرلمانية العامة في إقليم كيبيك 2012" value="04-09-2012"/>
+<TIMEX3 id="DATE-23" sequence="كأس ويمبلي لكرة القدم" value="24-07-2009"/>
+<TIMEX3 id="DATE-24" sequence="معركة غندر" value="XX-11-1941"/>
+<TIMEX3 id="DATE-25" sequence="حرب الغندر" value="XX-11-1941"/>
+<TIMEX3 id="DATE-26" sequence="معركة حيفا 1918" value="23-09-1918"/>
+<TIMEX3 id="DATE-27" sequence="انقلاب 1936" value="29-10-1936"/>
+<TIMEX3 id="DATE-28" sequence="حركة بكر صدقي" value="29-10-1936"/>
+<TIMEX3 id="DATE-29" sequence="انقلاب بكر صدقي" value="29-10-1936"/>
+<TIMEX3 id="DATE-30" sequence="حركة 18 تشرين الثاني 1963" value="18-11-1963"/>
+<TIMEX3 id="DATE-31" sequence="حركة 18 تشرين التصحيحية" value="18-11-1963"/>
+<TIMEX3 id="DATE-32" sequence="ردة تشرين السوداء" value="18-11-1963"/>
+<TIMEX3 id="DATE-33" sequence="حركة 14 تموز 1958" value="14-07-1958"/>
+<TIMEX3 id="DATE-34" sequence=" ثورة 14 تموز 1958" value="14-07-1958"/>
+<TIMEX3 id="DATE-35" sequence="حركة 8 شباط 1963" value="08-02-1958"/>
+<TIMEX3 id="DATE-36" sequence="ثورة رمضان" value="08-02-1958"/>
+<TIMEX3 id="DATE-37" sequence="ثورة 8 شباط 1963" value="08-02-1958"/>
+<TIMEX3 id="DATE-38" sequence="انقلاب 8 شباط 1963" value="08-02-1958"/>
+<TIMEX3 id="DATE-39" sequence="انتفاضة حماة 1925" value="XX-XX-1925"/>
+<TIMEX3 id="DATE-40" ssequence="حملة الساحل الشمالي الشرقي" value="XX-XX-1745"/>
+<TIMEX3 id="DATE-41" sequence="الثورة السورية الكبرى" value="21-07-1925"/>
+<TIMEX3 id="DATE-42" sequence="حملة البلقان" value="XX-XX-1915"/>
+<TIMEX3 id="DATE-43" sequence="حملة البلقان الحرب العالمية الأولى" value="XX-XX-1915"/>
+<TIMEX3 id="DATE-44" sequence="معركة أعزاز" value="XX-XX-2012"/>
+<TIMEX3 id="DATE-45" sequence="معركة الدلم" value="27-01-1903"/>
+<TIMEX3 id="DATE-46" sequence="معركة حيفا" value="23-09-1918"/>
+<TIMEX3 id="DATE-47" sequence="معركة حران" value="08-05-1104"/>
+<TIMEX3 id="DATE-48" sequence="معركة مرج الصفر" value="25-01-1126"/>
+<TIMEX3 id="DATE-49" sequence="معركة موكلين" value="23-06-1280"/>
+<TIMEX3 id="DATE-50" sequence="انقلاب غواتيمالا 1954" value="XX-XX-1954"/>
+<TIMEX3 id="DATE-51" sequence="كارثة موكلين" value="23-06-1280"/>
+<TIMEX3 id="DATE-52" sequence="معركة الرستن وتلبيسة" value="XX-XX-2011"/>
+<TIMEX3 id="DATE-53" sequence="معركة الرستن" value="XX-XX-2012"/>
+<TIMEX3 id="DATE-54" sequence="حصار وفتح دمشق" value="XX-XX-634"/>
+<TIMEX3 id="DATE-55" sequence="معركة قلعة شنت إشتيبن" value="15-09-916"/>
+<TIMEX3 id="DATE-56" sequence="حرب الحصبة الأولى" value="XX-XX-2011"/>
+<TIMEX3 id="DATE-57" sequence="حرب الحصبة الثانية" value="XX-XX-2011"/>
+<TIMEX3 id="DATE-58" sequence="ثورة الشباب اليمنية" value="XX-XX-2011"/>
+<TIMEX3 id="DATE-59" sequence="وقعة الحرة" value="XX-XX-683"/>
+<TIMEX3 id="DATE-60" sequence="معركة الدونونية" value="XX-09-1276"/>
+<TIMEX3 id="DATE-61" sequence="حرب إنجلترا وساستوما" value="XX-XX-1863"/>
+<TIMEX3 id="DATE-62" sequence="احتلال هرمز" value="24-10-1507"/>
+<TIMEX3 id="DATE-63" ssequence="حرب ثورة" value="XX-02-2011"/>
+<TIMEX3 id="DATE-64" ssequence="وقعت حملة الساحل الشمالي الشرقي" value="XX-XX-1745"/>
+<TIMEX3 id="DATE-65" sequence="غارات ديسمبر" value="XX-XX-1972"/>
+<TIMEX3 id="DATE-66" sequence="عملية لاينباكير" value="XX-XX-1972"/>
+<TIMEX3 id="DATE-67" sequence="معركة الزاوية الثانية" value="XX-XX-2011"/>
+<TIMEX3 id="DATE-68" sequence="فتح دمشق" value="XX-XX-634"/>
+<TIMEX3 id="DATE-69" sequence="انقلاب غواتيمالا" value="XX-XX-1954"/>
+<TIMEX3 id="DATE-70" sequence="حملة البلقان2" value="XX-XX-1940"/>
+<TIMEX3 id="DATE-71" sequence="حملة البلقان الحرب العالمية الثانية" value="XX-XX-1940"/>
+<TIMEX3 id="DATE-72" sequence="معركة أرغينوز" value="XX-XX-406"/>
+<TIMEX3 id="DATE-73" sequence="معركة بروان" value="XX-XX-1221"/>
+<TIMEX3 id="DATE-74" sequence="ثورة الهند" value="XX-XX-1857"/>
+<TIMEX3 id="DATE-75" sequence="معركة المنصورة الجوية" value="14-10-1973"/>
+<TIMEX3 id="DATE-76" sequence="معركة قصر دسمان" value="02-08-1990"/>
+<TIMEX3 id="DATE-77" sequence="عملية إنزال رمانة" value="06-10-1973"/>
+<TIMEX3 id="DATE-78" sequence="معركة المقطع" value="XX-01-630"/>
+<TIMEX3 id="DATE-79" sequence="معركة حصن بودابست" value="06-10-1973"/>
+<TIMEX3 id="DATE-80" sequence="عيد ميلاد إمبراطور اليابان " value="23-12-1933"/>
+<TIMEX3 id="DATE-81" sequence="السنة الدولية لعلم الفلك" value="XX-XX-2009"/>
+<TIMEX3 id="DATE-82" sequence=" الحرب الباكستانية-الهندية" value="XX-XX-1965"/>
+<TIMEX3 id="DATE-83" sequence="يوم شوا" value="29-04-XXXX"/>
+<TIMEX3 id="DATE-84" sequence="ليلة لقديس يوحنا" value="24-06-XXXX"/>
+<TIMEX3 id="DATE-85" sequence="يوم الطفل العالمي" value="20-11-XXXX"/>
+<TIMEX3 id="DATE-86" sequence="يوم الأطفال" value="20-11-XXXX"/>
+<TIMEX3 id="DATE-87" sequence="اليوم العالمي للحياة البرية" value="03-03-2013"/>
+<TIMEX3 id="DATE-88" sequence="عيدا لاستقلال الهند" value="15-08-1947"/>
+<TIMEX3 id="DATE-89" sequence="يوم الاستقلال الهندي" value="15-08-1947"/>
+<TIMEX3 id="DATE-90" sequence="يوم استقلال الهند" value="15-08-1947"/>
+<TIMEX3 id="DATE-91" sequence="بطولة أمم أوروبا لكرة القدم " value="XX-XX-1968"/>
+<TIMEX3 id="DATE-92" sequence="فتح عدن" value="XX-XX-1548"/>
+<TIMEX3 id="DATE-93" sequence="جائزة أستراليا الكبرى" value="XX-XX-1954"/>
+<TIMEX3 id="DATE-94" sequence="زلزال الشلف" value="XX-XX-1980"/>
+<TIMEX3 id="DATE-95" sequence="زلزال فرنجيا" value="XX-XX-1986"/>
+<TIMEX3 id="DATE-96" sequence="معركة فورمينترا" value="XX-XX-1529"/>
+<TIMEX3 id="DATE-97" sequence="زلزال صفد" value="XX-XX-1837"/>
+<TIMEX3 id="DATE-98" sequence="حصار ديو" value="XX-XX-1538"/>
+<TIMEX3 id="DATE-99" sequence="الحرب الباكستانية-الهندية" value="XX-XX-1965"/>
+<TIMEX3 id="DATE-100" sequence="حرب حدود إثيوبيا-الصومال" value="XX-XX-1982"/>
+<TIMEX3 id="DATE-101" sequence="زلزال كانتربري" value="22-02-2011"/>
+<TIMEX3 id="DATE-102" sequence="اشتباكات العديسة 2010" value="03-08-2010"/>
+<TIMEX3 id="DATE-103" sequence="انقلاب 7 نوفمبر 1987" value="07-11-1987"/>
+<TIMEX3 id="DATE-104" sequence="أحداث الأول من يناير " value="01-01-1800"/>
+<TIMEX3 id="DATE-105" sequence="معركة الفولة " value="XX-XX-1183"/>
+<TIMEX3 id="DATE-106" sequence="معركة عمران" value="XX-XX-2014"/>
+<TIMEX3 id="DATE-107" sequence="معركة كربلاء" value="XX-XX-2003"/>
+<TIMEX3 id="DATE-108" sequence="تطوير الهجوم المصري" value="XX-XX-1973"/>
+<TIMEX3 id="DATE-109" sequence="فتح بغداد" value="XX-XX-1534"/>
+<TIMEX3 id="DATE-110" sequence="معرض الترفيه الإلكتروني" value="XX-XX-2014"/>
+<TIMEX3 id="DATE-111" sequence="الغارات الجوية المصرية في ليبيا" value="XX-02-2015"/>
+<TIMEX3 id="DATE-112" sequence="الحملة الجاليكية" value="XX-XX-1384"/>
+<TIMEX3 id="DATE-113" sequence="التدخل الإيراني في العراق" value="XX-XX-2014"/>
+<TIMEX3 id="DATE-114" sequence="هجمات سيناء" value="XX-01-2015"/>
+<TIMEX3 id="DATE-115" sequence="حصار لشبونة" value="XX-XX-1384"/>
+<TIMEX3 id="DATE-116" sequence="حرب فلسطين" value="XX-XX-1948"/>
+<TIMEX3 id="DATE-117" sequence="معركة القلمون" value="XX-XX-2013"/>
+<TIMEX3 id="DATE-118" sequence="هجوم القنيطرة الثاني" value="XX-XX-2015"/>
+<TIMEX3 id="DATE-119" sequence="حصار ديو" value="XX-XX-1531"/>
+<TIMEX3 id="DATE-120" sequence="الغزو العماني للبحرين" value="XX-XX-1717"/>
+<TIMEX3 id="DATE-121" sequence="حادثة قافلة حج" value="XX-XX-1757"/>
+<TIMEX3 id="DATE-122" sequence="معركة أبين" value="XX-XX-2015"/>
+<TIMEX3 id="DATE-123" sequence="عملية محافظة إدلب" value="XX-04-2012"/>
+<TIMEX3 id="DATE-124" sequence="حملة البلقان" value="XX-XX-1529"/>
+<TIMEX3 id="DATE-125" sequence="معركة الخندق" value="XX-XX-0939"/>
+<TIMEX3 id="DATE-126" sequence="معركة حجة" value="XX-XX-2015"/>
+<TIMEX3 id="DATE-127" sequence="معركة مخيم اليرموك" value="XX-XX-2015"/>
+<TIMEX3 id="DATE-128" sequence="باتل جراوند" value="XX-XX-XXXX"/>
+<TIMEX3 id="DATE-129" sequence="فتح الجزائر" value="XX-XX-1529"/>
+<TIMEX3 id="DATE-130" sequence="فتح بغداد" value="XX-XX-1638"/>
+<TIMEX3 id="DATE-131" sequence="معركة قلعة بريست" value="XX-XX-1941"/>
+<TIMEX3 id="DATE-132" sequence="اشتباكات الحدود التركية السورية" value="XX-XX-2012"/>
+<TIMEX3 id="DATE-133" sequence="أحداث ستاد بورسعيد" value="XX-XX-2012"/>
+<TIMEX3 id="DATE-134" sequence="معركة لودر" value="XX-XX-2010"/>
+<TIMEX3 id="DATE-135" sequence="حصار جبل طارق" value="XX-XX-1309"/>
+<TIMEX3 id="DATE-136" sequence="معركة دمشق " value="XX-XX-1918"/>
+<TIMEX3 id="DATE-137" sequence="معركة الزبداني" value="XX-XX-2012"/>
+<TIMEX3 id="DATE-138" sequence="معركة نابلس" value="XX-XX-1918"/>
+<TIMEX3 id="DATE-139" sequence="زلزال تبريز" value="XX-XX-2012"/>
+<TIMEX3 id="DATE-140" sequence="زلزال جيريرو أواكساكا" value="XX-XX-2012"/>
+<TIMEX3 id="DATE-141" sequence="هجوم حمص" value="XX-XX-2012"/>
+<TIMEX3 id="DATE-142" sequence="زلزال آتشيه" value="XX-XX-2012"/>
+<TIMEX3 id="DATE-143" sequence="انقلاب مالي" value="XX-XX-2012"/>
+<TIMEX3 id="DATE-144" sequence="زلزال جامايكا" value="XX-XX-1962"/>
+<TIMEX3 id="DATE-145" sequence="زلزال ذمار" value="XX-XX-1982"/>
+<TIMEX3 id="DATE-146" sequence="زلزال القاهرة" value="XX-XX-1992"/>
+<TIMEX3 id="DATE-147" sequence="زلزال العقبة" value="XX-XX-2010"/>
+<TIMEX3 id="DATE-148" sequence="زلزال تشيلي" value="XX-XX-2010"/>
+<TIMEX3 id="DATE-149" sequence="زلزال تركيا" value="XX-XX-2010"/>
+<TIMEX3 id="DATE-150" sequence="زلزال هايتي" value="XX-XX-2010"/>
+<TIMEX3 id="DATE-151" sequence="قصف الجزائر" value="XX-XX-1983"/>
+<TIMEX3 id="DATE-152" sequence="احتلال كورسيكا" value="XX-XX-1553"/>
+<TIMEX3 id="DATE-153" sequence="فتح بلغراد" value="XX-XX-1521"/>
+<TIMEX3 id="DATE-154" sequence="معركة قونية" value="XX-XX-1190"/>
+<TIMEX3 id="DATE-155" sequence="حصار بلغراد" value="XX-XX-1954"/>
+<TIMEX3 id="DATE-156" sequence="ثورة 1919" value="XX-XX-1919"/>
+<TIMEX3 id="DATE-157" sequence="معركة سكارب" value="XX-XX-1918"/>
+<TIMEX3 id="DATE-158" sequence="ثورة 23 يوليو" value="23-06-1952"/>
+<TIMEX3 id="DATE-159" sequence="انقلاب 23 يولي" value="323-06-1952"/>
+<TIMEX3 id="DATE-160" sequence="فاست لين" value="22-02-2015"/>
+<TIMEX3 id="DATE-161" sequence="جحيم في زنزانة" value="XX-XX-2015"/>
+<TIMEX3 id="DATE-162" sequence="سمرسلام" value="23-08-2015"/>
+<TIMEX3 id="DATE-163" sequence="موقعة الجسر" value="23-11-634"/>
+<TIMEX3 id="DATE-164" sequence="غزو تبليسي وحرب غوكجة" value="XX-XX-1616"/>
+<TIMEX3 id="DATE-165" sequence="غزو تبليسي" value="XX-XX-1616"/>
+<TIMEX3 id="DATE-166" sequence="غزوة الكدر" value="01-04-624"/>
+<TIMEX3 id="DATE-167" sequence="إنزال الحسيمة" value="08-11-1925"/>
+<TIMEX3 id="DATE-168" sequence="معركة عنتاب" value="XX-08-1150"/>
+<TIMEX3 id="DATE-169" sequence="معركة بقدورة" value="XX-XX-0741"/>
+<TIMEX3 id="DATE-170" sequence="معركة بيلكة" value="27-08-1388"/>
+<TIMEX3 id="DATE-171" sequence="معركة دوبروڤينكا" value="XX-09-1380"/>
+<TIMEX3 id="DATE-172" sequence="معركة الأبلستين" value="15-04-1277"/>
+<TIMEX3 id="DATE-173" sequence="معركة إهتمان" value="XX-XX-1355"/>
+<TIMEX3 id="DATE-174" sequence="أحداث كرداسة" value="14-08-2013"/>
+<TIMEX3 id="DATE-175" sequence="معركة ليكة" value="XX-XX-1385"/>
+<TIMEX3 id="DATE-176" sequence="معركة مرج عيون" value="10-06-1179"/>
+<TIMEX3 id="DATE-177" sequence="معركة ملطين" value="XX-XX-1100"/>
+<TIMEX3 id="DATE-178" sequence="معركة جبل قدموس" value="06-01-1148"/>
+<TIMEX3 id="DATE-179" sequence="معركة شبراخيت" value="13-01-1798"/>
+<TIMEX3 id="DATE-180" sequence="معركة أرومية" value="XX-XX-1012"/>
+<TIMEX3 id="DATE-181" sequence="معركة فالفيردي" value="14-10-1385"/>
+<TIMEX3 id="DATE-182" sequence="معركة وادي موسى" value="23-10-1917"/>
+<TIMEX3 id="DATE-183" sequence="معركة وادي مندريس الأصغر" value="XX-12-1147"/>
+<TIMEX3 id="DATE-184" sequence="احتلال العفولة وبيسان" value="20-09-1918"/>
+<TIMEX3 id="DATE-185" sequence="زلزال شانشي" value="XX-XX-1956"/>
+<TIMEX3 id="DATE-186" sequence="زلزال فورت تيجون" value="XX-XX-1857"/>
+<TIMEX3 id="DATE-187" sequence="عملية فردان" value="10-04-1973"/>
+<TIMEX3 id="DATE-188" sequence="زلزال تانغشان" value="XX-XX-1976"/>
+<TIMEX3 id="DATE-189" sequence="زلزال فرنجيا" value="XX-XX-1977"/>
+<TIMEX3 id="DATE-190" sequence="زلزال طبس " value="XX-XX-1978"/>
+<TIMEX3 id="DATE-191" sequence="زلزال أرمينيا" value="XX-XX-1988"/>
+<TIMEX3 id="DATE-192" sequence="زلزال وتسونامي المحيط الهندي" value="XX-XX-2004"/>
+<TIMEX3 id="DATE-193" sequence="زلزال سومطرة" value="XX-XX-2005"/>
+<TIMEX3 id="DATE-194" sequence="جائزة سان مارينو الكبرى " value="XX-XX-2005"/>
+<TIMEX3 id="DATE-195" sequence="معركة 1 فبراير 1625" value="XX-XX-1625"/>
+<TIMEX3 id="DATE-196" sequence="معركة غوام 1" value="XX-XX-1941"/>
+<TIMEX3 id="DATE-197" sequence="معركة غوام 2" value="XX-XX-1944"/>
+<TIMEX3 id="DATE-198" sequence="انقلاب الجزائر" value="XX-XX-1961"/>
+<TIMEX3 id="DATE-199" sequence="معركة عمورية" value="XX-XX-838"/>
+<TIMEX3 id="DATE-200" sequence="اغتيال السادات" value="06-10-1981"/>
+<TIMEX3 id="DATE-201" sequence="معركة جبل إيزل" value="XX-XX-1809"/>
+<TIMEX3 id="DATE-202" sequence="غزوة بدر الآخرة" value="XX-01-626"/>
+<TIMEX3 id="DATE-203" sequence="حرب أوسيتيا الجنوبية" value="XX-XX-2008"/>
+<TIMEX3 id="DATE-204" sequence="حركة تموز" value="XX-XX-1958"/>
+<TIMEX3 id="DATE-205" sequence="ثورة 17 تموز 1968" value="17-06-1968"/>
+<TIMEX3 id="DATE-206" sequence="ثورة الشواف" value="XX-03-1959"/>
+<TIMEX3 id="DATE-207" sequence="انقلاب ليبيا" value="XX-XX-1969"/>
+<TIMEX3 id="DATE-208" sequence="معركة تربة" value="25-06-1919"/>
+<TIMEX3 id="DATE-209" sequence="معركة الرقعي" value="28-01-1928"/>
+<TIMEX3 id="DATE-210" sequence="معركة عين التمر" value="XX-XX-0633"/>
+<TIMEX3 id="DATE-211" sequence="معركة البكيرية" value="15-06-1322"/>
+<TIMEX3 id="DATE-212" sequence="معركة بزاخة" value="XX-10-632"/>
+<TIMEX3 id="DATE-213" sequence="معركة ذات السلاسل" value="XX-04-633"/>
+<TIMEX3 id="DATE-214" sequence="معركة كولي" value="17-06-1269"/>
+<TIMEX3 id="DATE-215" sequence="معركة دومة الجندل" value="XX-XX-633"/>
+<TIMEX3 id="DATE-216" sequence="معركة حمض" value="18-05-1920"/>
+<TIMEX3 id="DATE-217" sequence="معركة أم رضمة" value="11-09-1929"/>
+<TIMEX3 id="DATE-218" sequence="معركة معرة النعمان الثانية" value="13-03-2016"/>
+<TIMEX3 id="DATE-219" sequence="معركة صيدا" value="23-06-2013"/>
+<TIMEX3 id="DATE-220" sequence="معركة تيخو البحرية" value="18-07-1384"/>
+<TIMEX3 id="DATE-221" sequence="معركة تاجيناي" value="XX-07-0552"/>
+<TIMEX3 id="DATE-222" sequence="معركة أرسوف 1918" value="08-07-1918"/>
+<TIMEX3 id="DATE-223" sequence="معركة المكلا 2015" value="XX-XX-2015"/>
+<TIMEX3 id="DATE-224" sequence="معركة المكلا 2016" value="XX-XX-2016"/>
+<TIMEX3 id="DATE-225" sequence="معركة أوخريد" value="14-09-1464"/>
+<TIMEX3 id="DATE-226" sequence="معركة سالاميس" value="XX-XX-0480"/>
+<TIMEX3 id="DATE-227" sequence="معركة ميكالي" value="27-08-0479"/>
+<TIMEX3 id="DATE-228" sequence="معركة بلاتيا" value="XX-XX-0479"/>
+<TIMEX3 id="DATE-229" sequence="معركة سان جاسينتو" value="21-04-1836"/>
+<TIMEX3 id="DATE-230" sequence="معركة أراس 1940" value="01-10-1914"/>
+<TIMEX3 id="DATE-231" sequence="معركة فليرز كورسيليت" value="15-09-1916"/>
+<TIMEX3 id="DATE-232" sequence="معركة كوروبيديوم" value="XX-XX-281"/>
+<TIMEX3 id="DATE-233" sequence="معركة آثوس" value="15-09-1916"/>
+<TIMEX3 id="DATE-234" sequence="معركة كوروبيديون" value="XX-XX-281"/>
+<TIMEX3 id="DATE-235" sequence="معركة أنب" value="XX-XX- 1149"/>
+<TIMEX3 id="DATE-236" sequence="معركة وينيبانج" value="XX-XX-1722"/>
+<TIMEX3 id="DATE-237" sequence="معركة نيتسانيم" value="07-07-1948"/>
+<TIMEX3 id="DATE-238" sequence="معركة بعرين" value="XX-XX-1915"/>
+<TIMEX3 id="DATE-239" sequence="معركة ماس تييرا" value="15-03-19"/>
+<TIMEX3 id="DATE-240" sequence="معركة السويس1" value="24-10-1973"/>
+<TIMEX3 id="DATE-241" sequence="معركة أبو عجيلة" value="05-06-1967"/>
+<TIMEX3 id="DATE-242" sequence="معركة الجزائر" value="XX-10-1541"/>
+<TIMEX3 id="DATE-243" sequence="معركة أنب" value="XX-XX-544"/>
+<TIMEX3 id="DATE-244" sequence="معركة كامبريه" value="08-10-1918"/>
+<TIMEX3 id="DATE-245" sequence="معركة غاريليانو" value="XX-XX-915"/>
+<TIMEX3 id="DATE-246" sequence="معركة مكة المكرمة" value="XX-XX-1916"/>
+<TIMEX3 id="DATE-247" sequence="أحداث مكة المكرمة" value="XX-XX-1924"/>
+<TIMEX3 id="DATE-248" sequence="معركة الفرما" value="XX-XX-0525"/>
+<TIMEX3 id="DATE-249" sequence="معركة القصير" value="XX-XX-2013"/>
+<TIMEX3 id="DATE-250" sequence="معركة الكرازة" value="XX-XX-1096"/>
+<TIMEX3 id="DATE-251" sequence="معركة كتندة" value="22-06-1120"/>
+<TIMEX3 id="DATE-252" sequence="معركة قتندة" value="22-06-1120"/>
+<TIMEX3 id="DATE-253" sequence="معركة جلولاء" value="xx-xx-0637"/>
+<TIMEX3 id="DATE-254" sequence="غرق الفرقيطة تشونان" value="26-05-2010"/>
+<TIMEX3 id="DATE-255" sequence="غارة على جراند برى" value="24-06-1704"/>
+<TIMEX3 id="DATE-256" sequence="معركة كارجلي" value="21-10-1912"/>
+<TIMEX3 id="DATE-257" sequence="عملية الموت للغزاة" value="16-06-1948"/>
+<TIMEX3 id="DATE-258" sequence="معركة عين الوردة" value="xx-01-0658"/>
+<TIMEX3 id="DATE-259" sequence="معركة صعدة" value="19-03-2011"/>
+<TIMEX3 id="DATE-260" sequence="معركة أم دبيكرات" value="24-11-1899"/>
+<TIMEX3 id="DATE-261" sequence="معركة لحج1" value="26-03-2015"/>
+<TIMEX3 id="DATE-262" sequence="معركة أبو طليح" value="17-01-1885"/>
+<TIMEX3 id="DATE-263" sequence="معركة الأرك" value="08-07-1195"/>
+<TIMEX3 id="DATE-264" sequence="معركة تلة الذخيرة" value="06-07-1967"/>
+<TIMEX3 id="DATE-265" sequence="معركة أتوليروس" value="06-04-1384"/>
+<TIMEX3 id="DATE-266" sequence="معركة بيكوكا" value="07-04-1522"/>
+<TIMEX3 id="DATE-267" sequence="معركة سير" value="15-08-1914"/>
+<TIMEX3 id="DATE-268" sequence="معركة سيريسول" value="11-04-1544"/>
+<TIMEX3 id="DATE-269" sequence="معركة تشيرينيولا" value="23-04-1503"/>
+<TIMEX3 id="DATE-270" sequence="معركة كونسويجرا" value="15-08-1097"/>
+<TIMEX3 id="DATE-271" sequence="معركة كاوبينز" value="17-01-1781"/>
+<TIMEX3 id="DATE-272" sequence="معركة كوستوزا1" value="24-07-1848"/>
+<TIMEX3 id="DATE-273" sequence="معركة داندقان" value="xx-xx-1040"/>
+<TIMEX3 id="DATE-274" sequence="معركة كستوزا" value="24-06-1866"/>
+<TIMEX3 id="DATE-275" sequence="معركة دورناخ" value="22-06-1499"/>
+<TIMEX3 id="DATE-276" sequence="معركة إليبا" value="xx-xx-0206"/>
+<TIMEX3 id="DATE-277" sequence="معركة إمبروس " value="xx-xx-1717"/>
+<TIMEX3 id="DATE-278" sequence="معركة القدس " value="xx-xx-1917"/>
+<TIMEX3 id="DATE-279" sequence="معركة الفلوجة " value="xx-xx-2016"/>
+<TIMEX3 id="DATE-280" sequence="معركة غزة " value="xx-xx-1244"/>
+<TIMEX3 id="DATE-281" sequence="معركة كييف " value="xx-xx-1941"/>
+<TIMEX3 id="DATE-282" sequence="معركة غزة " value="xx-xx-2007"/>
+<TIMEX3 id="DATE-283" sequence="معركة شبوة " value="xx-xx-2015"/>
+<TIMEX3 id="DATE-284" sequence="معركة شمال العراق" value="xx-08-2014"/>
+<TIMEX3 id="DATE-285" sequence="زلزال سومطرة" value="xx-xx-2010"/>
+<TIMEX3 id="DATE-286" sequence="هجوم بنقردان " value="xx-xx-2016"/>
+<TIMEX3 id="DATE-287" sequence="معركة الرياض " value="xx-xx-1902"/>
+<TIMEX3 id="DATE-288" sequence="معركة برودي " value="xx-xx-1941"/>
+<TIMEX3 id="DATE-289" sequence="معركة بيروت " value="xx-xx-1912"/>
+<TIMEX3 id="DATE-290" sequence="معركة جدة " value="xx-xx-1813"/>
+<TIMEX3 id="DATE-291" sequence="معركة سرت " value="xx-xx-2015"/>
+<TIMEX3 id="DATE-292" sequence="الأزمة الإيرانية" value="xx-xx-1946"/>
+<TIMEX3 id="DATE-293" sequence="معركة غروزني" value="xx-11-1994"/>
+<TIMEX3 id="DATE-294" sequence="معركة ستوكاش" value="xx-xx-1799"/>
+<TIMEX3 id="DATE-295" sequence="معركة مطار عدن" value="xx-xx-2015"/>
+<TIMEX3 id="DATE-296" sequence="معركة القريتين" value="xx-08-2015"/>
+<TIMEX3 id="DATE-297" sequence="معركة قسنطينة الأولى" value="xx-11-1836"/>
+<TIMEX3 id="DATE-298" sequence="معركة بصرى" value="xx-xx-2015"/>
+<TIMEX3 id="DATE-299" sequence="معركة الزبداني" value="xx-xx-2015"/>
+<TIMEX3 id="DATE-300" sequence="هجوم دير الزور" value="xx-12-2014"/>
+<TIMEX3 id="DATE-301" sequence="معركة الموصل" value="xx-xx-2014"/>
+<TIMEX3 id="DATE-302" sequence="معركة عين العرب" value="xx-06-2015"/>
+<TIMEX3 id="DATE-303" sequence="معركة حلب" value="xx-xx-1918"/>
+<TIMEX3 id="DATE-304" sequence="معركة الرقة" value="xx-xx-2013"/>
+<TIMEX3 id="DATE-305" sequence="الحرب على غزة" value="xx-xx-2012"/>
+<TIMEX3 id="DATE-306" sequence="معركة دمشق" value="xx-xx-1941"/>
+<TIMEX3 id="DATE-307" sequence="هجوم درعا والسويداء" value="xx-06-2015"/>
+<TIMEX3 id="DATE-308" sequence="محاولة انقلاب بوروندي" value="xx-xx-2015"/>
+<TIMEX3 id="DATE-309" sequence="زلزال إلابل" value="xx-xx-2015"/>
+<TIMEX3 id="DATE-310" sequence="غارة النيجر" value="xx-xx-2015"/>
+<TIMEX3 id="DATE-311" sequence="معركة بورت رويال" value="xx-xx-1690"/>
+<TIMEX3 id="DATE-312" sequence="معركة أنطاكية 613" value="xx-xx-0613"/>
+<TIMEX3 id="DATE-313" sequence="معركة أراس 1914" value="xx-xx-1914"/>
+<TIMEX3 id="DATE-314" sequence="" value="xx-xx-xxxx"/>
+<TIMEX3 id="DATE-315" sequence="معركة أراس" value="xx-xx-1914"/>
+<TIMEX3 id="DATE-316" sequence="معركة مانيلا" value="xx-xx-1945"/>
+<TIMEX3 id="DATE-317" sequence="معركة روستوف" value="xx-xx-1941"/>
+<TIMEX3 id="DATE-318" sequence="معركة سمولينسك1" value="xx-xx-1941"/>
+<TIMEX3 id="DATE-319" sequence="قصف لبنان يونيو 1981" value="xx-xx-2016"/>
+<TIMEX3 id="DATE-320" sequence="" value="xx-xx-xxxx"/>
+<TIMEX3 id="DATE-321" sequence="معركة سمولينسك2" value="xx-xx-1943"/>
+<TIMEX3 id="DATE-322" sequence="قصف لبنان" value="xx-06-2018"/>
+<TIMEX3 id="DATE-323" sequence="معركة كوكب الهوا" value="xx-xx-1182"/>
+<TIMEX3 id="DATE-324" sequence="معركة بريفيز" value="xx-xx-1911"/>
+<TIMEX3 id="DATE-325" sequence="تحرير طرابلس" value="xx-xx-2011"/>
+<TIMEX3 id="DATE-326" sequence="زلزال لاكويلا" value="xx-xx-2009"/>
+<TIMEX3 id="DATE-327" sequence="معركة جزين" value="xx-xx-1982"/>
+<TIMEX3 id="DATE-328" sequence="معركة الرمادي1" value="xx-xx-2014"/>
+<TIMEX3 id="DATE-329" sequence="معركة الرمادي2" value="xx-xx-2015"/>
+<TIMEX3 id="DATE-330" sequence="معركة الموصل" value="xx-xx-2016"/>
+<TIMEX3 id="DATE-331" sequence="معركة زبوريف" value="xx-xx-1917"/>
+<TIMEX3 id="DATE-332" sequence="معركة كوك" value="xx-xx-1809"/>
+<TIMEX3 id="DATE-333" sequence="معركة الجزيرة الخضراء" value="xx-xx-1278"/>
+<TIMEX3 id="DATE-334" sequence="معركة فورونيج" value="xx-xx-1942"/>
+<TIMEX3 id="DATE-335" sequence="هجوم مدينة الحسكة1" value="xx-xx-2015"/>
+<TIMEX3 id="DATE-336" sequence="معركة ميلوريا" value="xx-xx-1284"/>
+
+</DATE>
+
+<DURATION>
+
+<TIMEX3 beginPoint="10-07-1940" endPoint="31-10-1940" id="DURATION-1" sequence="معركة بريطانيا" value="P7M"/>
+<TIMEX3 beginPoint="7-09-1940" endPoint="11-05-1941" id="DURATION-2" sequence=" قصف لندن" value="P9M"/>
+<TIMEX3 beginPoint="5-07-1943" endPoint="23-08-1943" id="DURATION-3" sequence="معركة كورسك" value="P1MP20D"/>
+<TIMEX3 beginPoint="03-09-1939" endPoint="08-05-1945" id="DURATION-4" sequence="معركة الأطلسي" value="P7Y"/>
+<TIMEX3 beginPoint="16-12-1944" endPoint="25-01-1945" id="DURATION-5" sequence="معركة الثغرة" value="P1MP9D"/>
+<TIMEX3 beginPoint="XX-04-1927" endPoint="01-05-1950" id="DURATION-6" sequence="الحرب الأهلية الصينية" value="P23Y"/>
+<TIMEX3 beginPoint="05-10-1853" endPoint="30-03-1856" id="DURATION-7" sequence="حرب القرم" value="P3Y"/>
+<TIMEX3 beginPoint="14-07-1969" endPoint="18-07-1969" id="DURATION-8" sequence="حرب كرة القدم" value="P6D"/>
+<TIMEX3 beginPoint="19-07-1870" endPoint="10-05-1871" id="DURATION-9" sequence="الحرب الفرنسية البروسية" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1754" endPoint="XX-XX-1763" id="DURATION-10" sequence="الحرب الفرنسية والهندية" value="P9Y"/>
+<TIMEX3 beginPoint="XX-XX-1756" endPoint="XX-XX-1763" id="DURATION-11" sequence="حرب السنوات السبع" value="P7Y"/>
+<TIMEX3 beginPoint="XX-10-1934" endPoint="XX-10-1935" id="DURATION-12" sequence="المسيرة الطويلة" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1237" endPoint="XX-XX-1241" id="DURATION-13" sequence="الغزو المغولي لروسيا" value="P4Y"/>
+<TIMEX3 beginPoint="XX-XX-1219" endPoint="XX-XX-1256" id="DURATION-14" sequence="الغزو المغولي لخوارزم" value="P37Y"/>
+<TIMEX3 beginPoint="13-12-1937" endPoint="XX-02-1938" id="DURATION-15" sequence="مذبحة نانجنغ" value="P3M"/>
+<TIMEX3 beginPoint="08-02-1904" endPoint="05-12-1905" id="DURATION-16" sequence="الحرب الروسية اليابانية" value="P1YP7M"/>
+<TIMEX3 beginPoint="11-10-1899" endPoint="31-05-1902" id="DURATION-17" sequence="حرب البوير الثانية" value="P3Y"/>
+<TIMEX3 beginPoint="16-12-1880" endPoint="23-03-1881" id="DURATION-18" sequence="حرب البوير الأولى" value="P4M"/>
+<TIMEX3 beginPoint="20-10-1962" endPoint="21-11-1962" id="DURATION-19" sequence="الحرب الصينيةالهندية" value="P2M"/>
+<TIMEX3 beginPoint="02-10-1835" endPoint="21-04-1836" id="DURATION-20" sequence="ثورة تكساس" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1618" endPoint="XX-XX-1648" id="DURATION-21" sequence="حرب الثلاثين عاما" value="P30Y"/>
+<TIMEX3 beginPoint="01-11-1955" endPoint="30-04-1975" id="DURATION-22" sequence="حرب فيتنام" value="P20Y"/> 
+<TIMEX3 beginPoint="16-12-1740" endPoint="18-10-1748" id="DURATION-23" sequence="حرب الخلافة النمساوية" value="P8Y"/>
+<TIMEX3 beginPoint="XX-XX-1733" endPoint="XX-XX-1738" id="DURATION-24" sequence="حرب الخلافة البولندية" value="P5Y"/>
+<TIMEX3 beginPoint="09-07-1701" endPoint="07-03-1714" id="DURATION-25" sequence="حرب الخلافة الإسبانية" value="P13Y"/>
+<TIMEX3 beginPoint="28-07-1914" endPoint="11-11-1918" id="DURATION-26" sequence="الحرب العالمية الأولى" value="P4Y"/>
+<TIMEX3 beginPoint="01-09-1939" endPoint="02-09-1945" id="DURATION-27" sequence="الحرب العالمية الثانية" value="P6Y"/>
+<TIMEX3 beginPoint="30-11-1939" endPoint="13-03-1940" id="DURATION-28" sequence="حرب الشتاء" value="P4M"/>
+<TIMEX3 beginPoint="06-10-1973" endPoint="24-10-1973" id="DURATION-29" sequence="حرب أكتوبر" value="P18D"/>
+<TIMEX3 beginPoint="XX-XX-739" endPoint="XX-XX-743" id="DURATION-30" sequence="ثورة البربر" value="P4Y"/>
+<TIMEX3 beginPoint="08-03-1977" endPoint="XX-05-1977" id="DURATION-31" sequence="حرب شابا الأولى" value=""/>
+<TIMEX3 beginPoint="17-09-1620" endPoint="07-10-1620" id="DURATION-32" sequence="معركة تسوتسورا" value="P20D"/>
+<TIMEX3 beginPoint="24-08-1922" endPoint="30-08-1922" id="DURATION-33" sequence="معركة دوملوبونار" value="P4D"/>
+<TIMEX3 beginPoint="05-01-1913" endPoint="18-01-1913" id="DURATION-34" sequence="معركة ليمنوس " value="P13D"/>
+<TIMEX3 beginPoint="02-08-1925" endPoint="03-08-1925" id="DURATION-35" sequence="معركة المزرعة" value="P2D"/>
+<TIMEX3 beginPoint="16-11-636" endPoint="19-11-636" id="DURATION-36" sequence="معركة القادسية" value="P3D"/>
+<TIMEX3 beginPoint="04-06-1916" endPoint="20-09-1916" id="DURATION-37" sequence="هجوم بروسيلوف" value="P4M"/>
+<TIMEX3 beginPoint="03-08-1914" endPoint="XX-11-1918" id="DURATION-38" sequence="حملة شرق أفريقياالأولى" value="P3M"/>
+<TIMEX3 beginPoint="XX-07-1940" endPoint="XX-11-1941" id="DURATION-39" sequence="حملة شرق أفريقياالثانية" value="P4M"/>
+<TIMEX3 beginPoint="XX-XX-535" endPoint="XX-XX-554" id="DURATION-40" sequence="الحرب القوطية" value="P9Y"/>
+<TIMEX3 beginPoint="06-07-1872" endPoint="04-06-1873" id="DURATION-41" sequence="حرب مودوك" value="P1Y"/>
+<TIMEX3 beginPoint="28-06-2006" endPoint="26-11-2006" id="DURATION-42" sequence="عملية أمطار الصيف" value="P6M"/>
+<TIMEX3 beginPoint="XX-XX-1636" endPoint="XX-XX-1637" id="DURATION-43" sequence="غزو المانشو الثاني لكوريا" value="P1Y"/>
+<TIMEX3 beginPoint="22-09-1980" endPoint="10-11-1980" id="DURATION-44" sequence="معركة المحمرة" value="P3D"/>
+<TIMEX3 beginPoint="20-01-XXXX" endPoint="10-11-XXXX" id="DURATION-45" sequence="معرض القاهرة الدولي للكتاب" value="P12D"/>
+<TIMEX3 beginPoint="25-04-1846" endPoint="02-02-1848" id="DURATION-46" sequence="الحرب المكسيكية الأمريكية" value="P2D"/>
+<TIMEX3 beginPoint="05-10-XXXX" endPoint="13-10-XXXX" id="DURATION-47" sequence="شنغهاي للماسترز" value="P9D"/>
+<TIMEX3 beginPoint="XX-12-XXXX" endPoint="XX-12-XXXX" id="DURATION-48" sequence="تي إل سي" value="P1D"/>
+<TIMEX3 beginPoint="XX-12-XXXX" endPoint="XX-12-XXXX" id="DURATION-49" sequence=" مهرجان تي ال سي" value="P1D"/>
+<TIMEX3 beginPoint="24-07-XXXX" endPoint="26-07-XXXX" id="DURATION-50" sequence="كأس ويمبلي لكرة القدم" value="P3D"/>
+<TIMEX3 beginPoint="15-03-XXXX" endPoint="01-04-XXXX" id="DURATION-51" sequence="راسلمينيا" value="P15D"/>
+<TIMEX3 beginPoint="15-03-XXXX" endPoint="01-04-XXXX" id="DURATION-52" sequence="مينيا" value="P15D"/>
+<TIMEX3 beginPoint="04-10-1925" endPoint="05-10-1925" id="DURATION-53" sequence="انتفاضة حماة 1925" value="P2D"/>
+<TIMEX3 beginPoint="13-08-2011" endPoint="20-08-2011" id="DURATION-54" sequence="معركة تحرير مدينة الزاوية" value="P8D"/>
+<TIMEX3 beginPoint="21-07-1925" endPoint="XX-06-1927" id="DURATION-55" sequence="الثورة السورية الكبرى" value="P2Y"/>
+<TIMEX3 beginPoint="XX-08-1915" endPoint="03-08-1918" id="DURATION-56" sequence="حملة البلقان" value="P3Y"/>
+<TIMEX3 beginPoint="18-08-634" endPoint="19-09-634" id="DURATION-57" sequence="حصار وفتح دمشق" value="P1M"/>
+<TIMEX3 beginPoint="19-07-1745" endPoint="05-09-1745" id="DURATION-58" sequence="حملة الساحل الشمالي الشرقي" value="P6M"/>
+<TIMEX3 beginPoint="XX-08-1915" endPoint="03-08-1918" id="DURATION-59" sequence="حملة البلقان الحرب العالمية الأولى" value="P3Y"/>
+<TIMEX3 beginPoint="26-01-1915" endPoint="31-10-1918" id="DURATION-60" sequence="حملة سيناء وفلسطين" value="P3Y"/>
+<TIMEX3 beginPoint="27-09-2011" endPoint="03-10-2011" id="DURATION-61" sequence="معركة الرستن وتلبيسة" value="P8D"/>
+<TIMEX3 beginPoint="29-01-2012" endPoint="05-02-2012" id="DURATION-62" sequence="معركة الرستن" value="P8D"/>
+<TIMEX3 beginPoint="23-05-2011" endPoint="07-06-2011" id="DURATION-63" sequence="حرب الحصبة" value="P15D"/>
+<TIMEX3 beginPoint="23-05-2011" endPoint="07-06-2011" id="DURATION-64" sequence="حرب الحصبة الأولى" value="P15D"/>
+<TIMEX3 beginPoint="18-09-2011" endPoint="25-11-2011" id="DURATION-65" sequence="حرب الحصبة الثانية" value="P15D"/>
+<TIMEX3 beginPoint="27-01-2011" endPoint="21-02-2011" id="DURATION-66" sequence="ثورة الشباب اليمنية" value="P1M"/>
+<TIMEX3 beginPoint="15-08-1863" endPoint="17-08-1863" id="DURATION-67" sequence="حرب إنجلترا وساستوما" value="P3D"/>
+<TIMEX3 beginPoint="29-01-1978" endPoint="11-09-1987" id="DURATION-68" sequence="الصراع التشادي الليبي" value="P9Y7M13D"/>
+<TIMEX3 beginPoint="19-02-2011" endPoint="20-10-2011" id="DURATION-69" sequence="حرب ثورة " value="P9M"/>
+<TIMEX3 beginPoint="XX-03-1920" endPoint="25-06-1920" id="DURATION-70" sequence="الحرب السورية الفرنسية" value="P6M"/>
+<TIMEX3 beginPoint="19-07-1745" endPoint="05-09-1745" id="DURATION-71" sequence="وقعت حملة الساحل الشمالي الشرقي" value="P3M"/>
+<TIMEX3 beginPoint="18-09-1972" endPoint="29-09-1972" id="DURATION-72" sequence="غارات ديسمبر" value="P12D"/>
+<TIMEX3 beginPoint="13-08-2011" endPoint="20-08-2011" id="DURATION-73" sequence="معركة الزاوية الثانية" value="P8D"/>
+<TIMEX3 beginPoint="18-09-1972" endPoint="29-09-1972" id="DURATION-74" sequence="عملية لاينباكير" value="P12D"/>
+<TIMEX3 beginPoint="18-08-634" endPoint="19-09-634" id="DURATION-75" sequence="فتح دمشق" value="P1M"/>
+<TIMEX3 beginPoint="28-10-1940" endPoint="01-01-1941" id="DURATION-76" sequence="حملة البلقان الحرب العالمية الثانية" value="P4Y"/>
+<TIMEX3 beginPoint="XX-01-1942" endPoint="XX-06-1945" id="DURATION-77" sequence="حملة بورما" value="P4Y"/>
+<TIMEX3 beginPoint="28-10-1940" endPoint="01-01-1941" id="DURATION-78" sequence="حملة البلقان2" value="P4Y"/>
+<TIMEX3 beginPoint="05-08-1965" endPoint="23-09-1965" id="DURATION-79" sequence="الحرب الباكستانية الهندية" value="P1M18D"/> 
+<TIMEX3 beginPoint="XX-XX-1568" endPoint="XX-XX-1648" id="DURATION-80" sequence="حرب الثمانين عاماً" value="P80Y"/>
+<TIMEX3 beginPoint="XX-XX-1568" endPoint="XX-XX-1648" id="DURATION-81" sequence="حرب الاستقلال الهولندية" value="P80Y"/>
+<TIMEX3 beginPoint="10-05-1857" endPoint="20-06-1858" id="DURATION-82" sequence="ثورة الهند" value="P1Y"/>
+<TIMEX3 beginPoint="06-06-1967" endPoint="15-01-1970" id="DURATION-83" sequence="الحرب الأهلية النيجرية" value="P4Y"/>
+<TIMEX3 beginPoint="XX-XX-1271" endPoint="XX-XX-1272" id="DURATION-84" sequence="الحملة الصليبية التاسعة" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1879" endPoint="XX-XX-1882" id="DURATION-85" sequence="الثورة العرابية" value="P4Y"/>
+<TIMEX3 beginPoint="XX-XX-1879" endPoint="XX-XX-1882" id="DURATION-86" sequence="" value="P4Y"/>
+<TIMEX3 beginPoint="23-04-XXXX" endPoint="30-04-XXXX" id="DURATION-87" sequence="أسبوع التحصين العالمي" value="P7D"/>   
+<TIMEX3 beginPoint="23-04-XXXX" endPoint="30-04-XXXX" id="DURATION-88" sequence="الحملة العالمية للصحة العامة" value="P7D"/> 
+<TIMEX3 beginPoint="01-01-2009" endPoint="31-01-2009" id="DURATION-89" sequence="السنة الدولية لعلم الفلك" value="P1Y"/> 
+<TIMEX3 beginPoint="05-08-1965" endPoint="23-09-1965" id="DURATION-90" sequence=" الحرب الباكستانية-الهندية" value="P1M18D"/> 
+<TIMEX3 beginPoint="29-04-XXXX" endPoint="05-05-XXXX" id="DURATION-91" sequence="الأسبوع الذهبي" value="P7D"/> 
+<TIMEX3 beginPoint="24-12-XXXX" endPoint="25-12-XXXX" id="DURATION-92" sequence="ميلاد يسوع المسيح" value="P2D"/>
+<TIMEX3 beginPoint="XX-06-1982" endPoint="XX-08-1982" id="DURATION-93" sequence="حرب حدود إثيوبيا-الصومال" value="P3M"/>
+<TIMEX3 beginPoint="08-07-2014" endPoint="26-08-2014" id="DURATION-94" sequence=" الحرب على غزة 2014" value="P2M"/>
+<TIMEX3 beginPoint="08-07-2014" endPoint="26-08-2014" id="DURATION-95" sequence=" الحرب على غزة" value="P2M"/>
+<TIMEX3 beginPoint="15-01-XXXX" endPoint="30-01-XXXX" id="DURATION-96" sequence="أستراليا المفتوحة" value="P15D"/>	
+<TIMEX3 beginPoint="15-01-XXXX" endPoint="30-01-XXXX" id="DURATION-97" sequence="بطولة استراليا المفتوحة للتنس" value="P15D"/>	
+<TIMEX3 beginPoint="19-03-2011" endPoint="31-03-2011" id="DURATION-98" sequence="التدخل العسكري في ليبيا" value="P13D"/>
+<TIMEX3 beginPoint="07-05-2008" endPoint="14-05-2008" id="DURATION-99" sequence="أحداث 7 أيار" value="P7D"/>
+<TIMEX3 beginPoint="XX-XX-2010" endPoint="XX-XX-2011" id="DURATION-100" sequence="الأزمة العاجية" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1839" endPoint="XX-XX-1851" id="DURATION-101" sequence="الحرب الأهلية الأوروغوانية" value="P22Y"/>
+<TIMEX3 beginPoint="XX-XX-0066" endPoint="XX-XX-0077" id="DURATION-102" sequence=" الثورة اليهودية الأولى" value="P18Y"/>
+<TIMEX3 beginPoint="XX-06-2011" endPoint="XX-07-2011" id="DURATION-103" sequence="اشتباكات سبها" value="P2D"/>
+<TIMEX3 beginPoint="XX-XX-0066" endPoint="XX-XX-0077" id="DURATION-104" sequence=" الثورة اليهودية الكبرى" value="P18Y"/>
+<TIMEX3 beginPoint="20-05-2007" endPoint="07-09-2007" id="DURATION-105" sequence="الصراع في شمال لبنان" value="P5M"/>
+<TIMEX3 beginPoint="XX-XX-1961" endPoint="XX-XX-1970" id="DURATION-106" sequence="حرب كردستان العراق" value="P9Y"/>
+<TIMEX3 beginPoint="XX-XX-1321" endPoint="XX-XX-1328" id="DURATION-107" sequence="الحرب الأهلية البيزنطية" value="P7Y"/>
+<TIMEX3 beginPoint="XX-XX-1722" endPoint="XX-XX-1727" id="DURATION-108" sequence="الحرب العثمانية الهوتاكية" value="P5Y"/>
+<TIMEX3 beginPoint="XX-XX-1730" endPoint="XX-XX-2736" id="DURATION-109" sequence="الحرب العثمانية الصفوية" value="P6Y"/>
+<TIMEX3 beginPoint="XX-XX-1743" endPoint="XX-XX-1746" id="DURATION-110" sequence="الحرب العثمانية الأفشارية" value="P3Y"/>
+<TIMEX3 beginPoint="XX-XX-1775" endPoint="XX-XX-1776" id="DURATION-111" sequence="الحرب العثمانية الزندية" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1916" endPoint="XX-XX-1919" id="DURATION-112" sequence="حصار المدينة المنورة" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1592" endPoint="XX-XX-1598" id="DURATION-113" sequence="غزو اليابان لكوريا" value="P6Y"/>
+<TIMEX3 beginPoint="XX-XX-1676" endPoint="XX-XX-1681" id="DURATION-114" sequence="الحرب الروسية العثمانية" value="P6Y"/>
+<TIMEX3 beginPoint="XX-XX-2015" endPoint="XX-XX-2016" id="DURATION-115" sequence="الانتفاضة الفلسطينية" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1942" endPoint="XX-XX-1943" id="DURATION-116" sequence="حملة أراكان" value="P1Y"/>
+<TIMEX3 beginPoint="XX-06-2015" endPoint="XX-07-2015" id="DURATION-117" sequence="هجوم درعا" value="P2D"/>
+<TIMEX3 beginPoint="XX-XX-1991" endPoint="XX-XX-1992" id="DURATION-118" sequence="حرب جنوب أوسيتيا" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-2012" endPoint="XX-XX-XXXX" id="DURATION-119" sequence="معركة حلب" value="P8Y"/>
+<TIMEX3 beginPoint="04-06-1654" endPoint="22-07-XXXX" id="DURATION-120" sequence="حصار بلغراد" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1807" endPoint="XX-XX-1809" id="DURATION-121" sequence="الحرب الأنجلو-عثمانية" value="P1Y"/>
+<TIMEX3 beginPoint="20-08-1696" endPoint="26-08-1696" id="DURATION-122" sequence="معركة أولاش" value="P6D"/>
+<TIMEX3 beginPoint="20-08-1696" endPoint="26-08-1696" id="DURATION-123" sequence=" معركة نهر بيجا" value="P6D"/>
+<TIMEX3 beginPoint="24-10-1596" endPoint="26-10-1596" id="DURATION-124" sequence="معركة كرزت" value="P2D"/>
+<TIMEX3 beginPoint="24-10-1596" endPoint="26-10-1596" id="DURATION-125" sequence=" معركة هاجوفا" value="P2D"/>
+<TIMEX3 beginPoint="18-04-1942" endPoint="15-08-1945" id="DURATION-126" sequence="الغارات الجوية على اليابان" value="P3Y"/>
+<TIMEX3 beginPoint="18-11-1961" endPoint="19-11-1961" id="DURATION-127" sequence="حرب غوا" value="P2D"/>
+<TIMEX3 beginPoint="03-10-1918" endPoint="27-10-1918" id="DURATION-128" sequence="معركة بلانك مونت ريدج" value="P24D"/>
+<TIMEX3 beginPoint="03-09-1916" endPoint="25-11-1916" id="DURATION-129" sequence="معركة بوخارست" value="P2D"/>
+<TIMEX3 beginPoint="06-09-1914" endPoint="04-10-1914" id="DURATION-130" sequence="معركة درينا" value="P2D"/>
+<TIMEX3 beginPoint="31-08-1918" endPoint="03-09-1918" id="DURATION-131" sequence="معركة مونت سانت كوينتين" value="P2M"/>
+<TIMEX3 beginPoint="27-08-1916" endPoint="26-11-1916" id="DURATION-132" sequence="معركة ترانسيلفانيا" value="P4M"/>
+<TIMEX3 beginPoint="XX-XX-1140" endPoint="XX-XX-1141" id="DURATION-133" sequence="معركة فالديفيز" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1914" endPoint="XX-XX-1919" id="DURATION-134" sequence="حصار ألمانيا" value="P5Y"/>
+<TIMEX3 beginPoint="XX-02-1918" endPoint="XX-09-1918" id="DURATION-135" sequence="الاحتلال البريطاني لوادي الأردن" value="P7M"/>
+<TIMEX3 beginPoint="19-02-1918" endPoint="21-02-1918" id="DURATION-136" sequence="احتلال أريحا" value="P3D"/>
+<TIMEX3 beginPoint="01-12-1916" endPoint="18-01-1917" id="DURATION-137" sequence="معركة ينبع" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1154" endPoint="XX-XX-1169" id="DURATION-138" sequence="الحملات الصليبية على مصر" value="P23Y"/>
+<TIMEX3 beginPoint="XX-11-1918" endPoint="XX-03-1920" id="DURATION-139" sequence="الحرب الهنغارية الرومانية" value="P5M"/>
+<TIMEX3 beginPoint="27-10-1987" endPoint="XX-XX-XXXX" id="DURATION-140" sequence="الصراع الكردي التركي" value="P37Y"/>
+<TIMEX3 beginPoint="24-10-2014" endPoint="26-10-2014" id="DURATION-141" sequence="عملية عاشوراء" value="P3D"/>
+<TIMEX3 beginPoint="XX-XX-1854" endPoint="XX-XX-1855" id="DURATION-142" sequence="حصار سيفاستوبول" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1941" endPoint="XX-XX-1942" id="DURATION-143" sequence="حصار سيفاستوبول" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-2010" endPoint="XX-XX-2011" id="DURATION-144" sequence="معركة مقديشو" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-XXXX" endPoint="XX-XX-XXXX" id="DURATION-145" sequence="غزو فرنسا للمغرب" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1807" endPoint="XX-XX-1812" id="DURATION-146" sequence="الحرب الإنجليزية الروسية" value="P6Y"/>
+<TIMEX3 beginPoint="29-09-2004" endPoint="16-10-2004" id="DURATION-147" sequence="معركة أيام الغضب" value="P2M"/>
+<TIMEX3 beginPoint="05-08-1907" endPoint="07-08-1907" id="DURATION-148" sequence="معركة الدار البيضاء" value="P2D"/>
+<TIMEX3 beginPoint="30-04-1918" endPoint="04-05-1918" id="DURATION-149" sequence="معركة شرق الأردن الثانية" value="P5D"/>
+<TIMEX3 beginPoint="19-09-1918" endPoint="25-09-1918" id="DURATION-150" sequence="معركة شرق الأردن الثالثة" value="P7D"/>
+<TIMEX3 beginPoint="15-07-1918" endPoint="23-07-1918" id="DURATION-151" sequence="معركة نهر بيافي" value="P9D"/>
+<TIMEX3 beginPoint="25-03-2015" endPoint="22-07-2015" id="DURATION-152" sequence="معركة عدن 2015" value="P3M3W6D"/>
+<TIMEX3 beginPoint="23-12-2015" endPoint="22-10-2015" id="DURATION-153" sequence="معركة بيجي" value="P9M29D"/>
+<TIMEX3 beginPoint="17-03-2015" endPoint="27-04-2015" id="DURATION-154" sequence="معركة صرين" value="P1M10Y"/>
+<TIMEX3 beginPoint="XX-01-1944" endPoint="XX-05-1944" id="DURATION-155" sequence="معركة مونتي كاسينو" value="P5M"/>
+<TIMEX3 beginPoint="25-01-1876" endPoint="26-01-1876" id="DURATION-156" sequence="معركة لتل بيج هورن" value="P2d"/>
+<TIMEX3 beginPoint="07-08-0480" endPoint="10-08-0480" id="DURATION-157" sequence="معركة أرطيميسيوم" value="P4D"/>
+<TIMEX3 beginPoint="07-08-0480" endPoint="10-08-0480" id="DURATION-158" sequence="معركة أرطمسيون" value="P4D"/>
+<TIMEX3 beginPoint="20-08-0480" endPoint="10-09-0480" id="DURATION-159" sequence="معركة ترموبيل" value="P20D"/>
+<TIMEX3 beginPoint="01-10-1914" endPoint="04-10-1914" id="DURATION-160" sequence="معركة أراس" value="P4D"/>
+<TIMEX3 beginPoint="15-09-1916" endPoint="22-09-1916" id="DURATION-161" sequence="معركة فليرز كورسيليت" value="P8D"/>
+<TIMEX3 beginPoint="19-07-1807" endPoint="22-07-1807" id="DURATION-162" sequence="معركة آثوس" value="P4D"/>
+<TIMEX3 beginPoint="XX-03-1558" endPoint="XX-04-1558" id="DURATION-163" sequence="معركة وادي اللبن" value="P2D"/>
+<TIMEX3 beginPoint="01-04-2002" endPoint="12-04-2002" id="DURATION-164" sequence="مجزرة جنين" value="P12D"/>
+<TIMEX3 beginPoint="24-10-1973" endPoint="25-10-1973" id="DURATION-165" sequence="معركة السويس" value="P1Y"/>
+<TIMEX3 beginPoint="29-05-1948" endPoint="03-07-1948" id="DURATION-166" sequence="معركة أسدود" value="P2M2D"/>
+<TIMEX3 beginPoint="31-03-2011" endPoint="07-04-2011" id="DURATION-167" sequence="معركة البريقة الثالثة" value="P1M"/>
+<TIMEX3 beginPoint="05-06-1967" endPoint="06-06-1967" id="DURATION-168" sequence="معركة أبو عجيلة" value="P2D"/>
+<TIMEX3 beginPoint="08-04-2011" endPoint="10-04-2011" id="DURATION-169" sequence="معركة أجدابيا الثانية" value="P3D"/>
+<TIMEX3 beginPoint="08-10-1918" endPoint="10-10-1918" id="DURATION-170" sequence="معركة كامبريه" value="P3D"/>
+<TIMEX3 beginPoint="19-05-2013" endPoint="05-06-2013" id="DURATION-171" sequence="معركة القصير" value="P16D"/>
+<TIMEX3 beginPoint="02-03-2011" endPoint="05-03-2011" id="DURATION-172" sequence="معركة البريقة الأولى" value="P4D"/>
+<TIMEX3 beginPoint="16-04-2011" endPoint="17-04-2011" id="DURATION-173" sequence="معركة البريقة الرابعة" value="P2D"/>
+<TIMEX3 beginPoint="07-11-2004" endPoint="23-12-2004" id="DURATION-174" sequence="معركة الفلوجة الثانية" value="P1Y"/>
+<TIMEX3 beginPoint="12-05-1942" endPoint="28-05-1942" id="DURATION-175" sequence="معركة خاركوف الثانية" value="P1M13D"/>
+<TIMEX3 beginPoint="25-12-1914" endPoint="18-01-1915" id="DURATION-176" sequence="معركة أرداهان" value="P23D"/>
+<TIMEX3 beginPoint="08-10-1973" endPoint="09-10-1973" id="DURATION-177" sequence="معركة بلطيم" value="P2D"/>
+<TIMEX3 beginPoint="12-06-1839" endPoint="22-08-1839" id="DURATION-178" sequence="اقتحام آحل كوح" value="P2M"/>
+<TIMEX3 beginPoint="10-05-1940" endPoint="17-05-1940" id="DURATION-179" sequence="معركة هولندا" value="P5D"/>
+<TIMEX3 beginPoint="16-06-1948" endPoint="18-06-1948" id="DURATION-180" sequence="عملية الموت للغزاة" value="P3D"/>
+<TIMEX3 beginPoint="03-06-1187" endPoint="04-06-1187" id="DURATION-181" sequence="معركة حطين" value="P2D"/>
+<TIMEX3 beginPoint="19-03-2011" endPoint="26-03-2016" id="DURATION-182" sequence="معركة صعدة" value="P7D"/>
+<TIMEX3 beginPoint="01-11-2014" endPoint="15-12-2014" id="DURATION-183" sequence="معركة الشيخ مسكين الأولى" value="P1M14Y"/>
+<TIMEX3 beginPoint="27-03-2015" endPoint="04-08-2015" id="DURATION-184" sequence="معركة لحج" value="P5M"/>
+<TIMEX3 beginPoint="26-11-1812" endPoint="29-11-1812" id="DURATION-185" sequence="معركة بيريزينا" value="P4M"/>
+<TIMEX3 beginPoint="15-08-1914" endPoint="24-08-1914" id="DURATION-186" sequence="معركة سير1" value="P10D"/>
+<TIMEX3 beginPoint="24-06-1848" endPoint="25-06-1848" id="DURATION-187" sequence="معركة كوستوزا" value="P2D"/>
+<TIMEX3 beginPoint="23-08-1914" endPoint="11-09-1914" id="DURATION-188" sequence="معركة غاليسيا" value="P1M"/>
+<TIMEX3 beginPoint="24-04-1945" endPoint="01-05-1945" id="DURATION-189" sequence="معركة هالب" value="P6D"/>
+<TIMEX3 beginPoint="08-12-1941" endPoint="25-12-1941" id="DURATION-190" sequence="معركة هونغ كونغ" value="P17D"/>
+<TIMEX3 beginPoint="XX-XX-1999" endPoint="XX-XX-2000" id="DURATION-191" sequence="معركة غروزني" value="P1Y"/>
+<TIMEX3 beginPoint="XX-04-2014" endPoint="XX-06-2014" id="DURATION-192" sequence="هجوم دير الزور1" value="P2M"/>
+<TIMEX3 beginPoint="XX-XX-XXXX" endPoint="XX-XX-XXXX" id="DURATION-193" sequence="" value="P1Y"/>
+</DURATION>
+
+<SET> 
+
+<TIMEX3 beginPoint="1896" id="SET-1" quand="EVERY" sequence="الألعاب الأولمبية الصيفية" value="P4Y"/>
+<TIMEX3 beginPoint="1994" id="SET-2" quand="EVERY" sequence="الألعاب الأولمبية الشتوية" value="P4Y"/>
+<TIMEX3 beginPoint="1930" id="SET-3" quand="EVERY" sequence="كأس العالم لكرة القدم" value="P4Y"/>
+<TIMEX3 beginPoint="06-07-XXXX" endPoint="28-07-XXXX" id="SET-4" quand="EVERY" sequence="طواف فرنسا" value="P1Y"/>
+<TIMEX3 id="SET-5" quand="EVERY" sequence="انتخابات الرئاسة الأمريكية" value="P4Y"/>
+<TIMEX3 id="SET-6" quand="EVERY" sequence="بطولة العالم لتنس الطاولة" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1995" id="SET-7" quand="EVERY" sequence="دوري أبطال أوروبا لكرة القدم" value="P1Y"/>
+<TIMEX3 id="SET-8" quand="EVERY" sequence="الألعاب الأولمبية الصيفية للشباب" value="P4Y"/>
+<TIMEX3 beginPoint="XX-10-XXXX" id="SET-9" quand="EVERY" sequence="مهرجان هوليوود السينمائي" value="P10D"/>
+<TIMEX3 beginPoint="XX-04-XXXX" id="SET-10" quand="EVERY" sequence="راسلمينيا" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1970" id="SET-11" quand="EVERY" sequence="كأس الخليج العربي لكرة القدم" value="P2Y"/>
+<TIMEX3 id="SET-12" quand="EVERY" sequence="جائزة بريطانيا الكبرى" value="P1Y"/>
+<TIMEX3 id="SET-13" quand="EVERY" sequence="دوري أبطال أفريقيا" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1978" id="SET-14" quand="EVERY" sequence="بطولة أوروبا تحت 21 سنة" value="P2Y"/>
+<TIMEX3 id="SET-15" quand="EVERY" sequence="كأس الكونكاكاف الذهبية" value="P2Y"/>
+<TIMEX3 beginPoint="2005" id="SET-16" quand="EVERY" sequence="كأس القارات" value="P4Y"/>
+<TIMEX3 beginPoint="2004" id="SET-17" quand="EVERY" sequence="كأس الاتحاد الآسيوي" value="P1Y"/>
+<TIMEX3 beginPoint="1991" id="SET-18" quand="EVERY" sequence="بطولة أفريقيا لكرة القدم للسيدات" value="P2Y"/>
+<TIMEX3 beginPoint="1960" id="SET-19" quand="EVERY" sequence="كأس ليبرتادوريس" value="P1Y"/>
+<TIMEX3 beginPoint="01-01-1968" id="SET-20" quand="EVERY" sequence="بطولة برزبين للتنس" value="P1Y"/>
+<TIMEX3 beginPoint="2005" id="SET-21" quand="EVERY" sequence="ألعاب التضامن الإسلامي" value="P4Y"/>
+<TIMEX3 beginPoint="XX-08-1962" id="SET-22" quand="EVERY" sequence="دوري أبطال الكونكاكاف" value="P1Y"/>
+<TIMEX3 beginPoint="XX-12-2000" id="SET-23" quand="EVERY" sequence="كأس العالم للأندية لكرة القدم" value="P1Y"/>
+<TIMEX3 beginPoint="XX-12-2000" id="SET-24" quand="EVERY" sequence="كأس العالم للأندية" value="P1Y"/>
+<TIMEX3 id="SET-25" quand="EVERY" sequence="كأس الكونكاكاف" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1978" id="SET-26" quand="EVERY" sequence="بطولة يويفا تحت 21 الأوروبية" value="P21Y"/>
+<TIMEX3 beginPoint="XX-XX-1995" id="SET-27" quand="EVERY" sequence="دوري أبطال أوروبا" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1978" id="SET-28" quand="EVERY" sequence="بطولة أوروبا تحت 21  لكرة القدم" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1978" id="SET-29" quand="EVERY" sequence="بطولة يويفا تحت 21 الأوروبية لكرة القدم" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1956" endPoint="XX-XX-2012" id="SET-30" quand="EVERY" sequence="مهرجان دمشق السينمائي الدولي" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1989" id="SET-31" quand="EVERY" sequence="مهرجان الفيلم الوثائقي بمرسيليا" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1978" id="SET-32" quand="EVERY" sequence="البطولةالأوروبية يويفا تحت 21 " value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1959" id="SET-33" quand="EVERY" sequence="الألعاب الجامعية الصيفية" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1959" id="SET-34" quand="EVERY" sequence="الألعاب الصيفية الجامعية" value="P2Y"/>
+<TIMEX3 beginPoint="XX-10-2007" id="SET-35" quand="EVERY" sequence="مهرجان أبوظبي السينمائي" value="P1Y"/>
+<TIMEX3 beginPoint="01-01-1968" id="SET-36" quand="EVERY" sequence="بطولة برزبين الدولية للتنس" value="P1Y"/>
+<TIMEX3 beginPoint="20-01-1969" id="SET-37" quand="EVERY" sequence="معرض القاهرة الدولي للكتاب" value="P12D"/>
+<TIMEX3 beginPoint="XX-XX-1956" endPoint="XX-XX-2012" id="SET-38" quand="EVERY" sequence="مهرجان دمشق السينمائي الدولي" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1989" id="SET-39" quand="EVERY" sequence="مهرجان مرسيليا للفيلم الوثائقي" value="P1Y"/>
+<TIMEX3 beginPoint="1896" id="SET-40" quand="EVERY" sequence="الألعاب الأولمبية الصيفية" value="P4Y"/>
+<TIMEX3 beginPoint="1994" id="SET-41" quand="EVERY" sequence="الألعاب الأولمبية الشتوية" value="P4Y"/>
+<TIMEX3 beginPoint="1930" id="SET-42" quand="EVERY" sequence="كأس العالم لكرة القدم" value="P4Y"/>
+<TIMEX3 beginPoint="06-07-XXXX" endPoint="28-07-XXXX" id="SET-43" quand="EVERY" sequence="طواف فرنسا" value="P1Y"/>
+<TIMEX3 id="SET-44" quand="EVERY" sequence="انتخابات الرئاسة الأمريكية" value="P4Y"/>
+<TIMEX3 id="SET-45" quand="EVERY" sequence="بطولة العالم لتنس الطاولة" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1995" id="SET-46" quand="EVERY" sequence="دوري أبطال أوروبا لكرة القدم" value="P1Y"/>
+<TIMEX3 id="SET-47" quand="EVERY" sequence="الألعاب الأولمبية الصيفية للشباب" value="P4Y"/>
+<TIMEX3 beginPoint="XX-10-XXXX" id="SET-48" quand="EVERY" sequence="مهرجان هوليوود السينمائي" value="P10D"/>
+<TIMEX3 beginPoint="XX-04-XXXX" id="SET-49" quand="EVERY" sequence="راسلمينيا" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1970" id="SET-50" quand="EVERY" sequence="كأس الخليج العربي لكرة القدم" value="P2Y"/>
+<TIMEX3 id="SET-51" quand="EVERY" sequence="" value="P1Y"/>
+<TIMEX3 id="SET-52" quand="EVERY" sequence="دوري أبطال أفريقيا" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1978" id="SET-53" quand="EVERY" sequence="بطولة أوروبا تحت 21 سنة" value="P2Y"/>
+<TIMEX3 id="SET-54" quand="EVERY" sequence="كأس الكونكاكاف الذهبية" value="P2Y"/>
+<TIMEX3 beginPoint="2005" id="SET-55" quand="EVERY" sequence="كأس القارات" value="P4Y"/>
+<TIMEX3 beginPoint="2004" id="SET-56" quand="EVERY" sequence="كأس الاتحاد الآسيوي" value="P1Y"/>
+<TIMEX3 beginPoint="1991" id="SET-57" quand="EVERY" sequence="بطولة أفريقيا لكرة القدم للسيدات" value="P2Y"/>
+<TIMEX3 beginPoint="1960" id="SET-58" quand="EVERY" sequence="كأس ليبرتادوريس" value="P1Y"/>
+<TIMEX3 beginPoint="01-01-1968" id="SET-59" quand="EVERY" sequence="بطولة برزبين للتنس" value="P1Y"/>
+<TIMEX3 beginPoint="2005" id="SET-60" quand="EVERY" sequence="ألعاب التضامن الإسلامي" value="P4Y"/>
+<TIMEX3 beginPoint="XX-08-1962" id="SET-61" quand="EVERY" sequence="دوري أبطال الكونكاكاف" value="P1Y"/>
+<TIMEX3 beginPoint="XX-12-2000" id="SET-62" quand="EVERY" sequence="كأس العالم للأندية لكرة القدم" value="P1Y"/>
+<TIMEX3 beginPoint="XX-12-2000" id="SET-63" quand="EVERY" sequence="كأس العالم للأندية" value="P1Y"/>
+<TIMEX3 id="SET-64" quand="EVERY" sequence="كأس الكونكاكاف" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1978" id="SET-65" quand="EVERY" sequence="بطولة يويفا تحت 21 الأوروبية" value="P21Y"/>
+<TIMEX3 beginPoint="XX-XX-1995" id="SET-66" quand="EVERY" sequence="دوري أبطال أوروبا" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1978" id="SET-67" quand="EVERY" sequence="بطولة أوروبا تحت 21  لكرة القدم" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1978" id="SET-68" quand="EVERY" sequence="بطولة يويفا تحت 21 الأوروبية لكرة القدم" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1956" endPoint="XX-XX-2012" id="SET-69" quand="EVERY" sequence="مهرجان دمشق السينمائي الدولي" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1989" id="SET-70" quand="EVERY" sequence="مهرجان الفيلم الوثائقي بمرسيليا" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1978" id="SET-71" quand="EVERY" sequence="البطولةالأوروبية يويفا تحت 21 " value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1897" id="SET-72" quand="EVERY" sequence="بطولة مونتي كارلو للأساتذة" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1959" id="SET-73" quand="EVERY" sequence="الألعاب الجامعية الصيفية" value="P2Y"/>
+<TIMEX3 beginPoint="XX-XX-1959" id="SET-74" quand="EVERY" sequence="الألعاب الصيفية الجامعية" value="P2Y"/>
+<TIMEX3 beginPoint="XX-10-2007" id="SET-75" quand="EVERY" sequence="مهرجان أبوظبي السينمائي" value="P1Y"/>
+<TIMEX3 beginPoint="01-01-1968" id="SET-76" quand="EVERY" sequence="بطولة برزبين الدولية للتنس" value="P1Y"/>
+<TIMEX3 beginPoint="20-01-1969" id="SET-77" quand="EVERY" sequence="معرض القاهرة الدولي للكتاب" value="P12D"/>
+<TIMEX3 beginPoint="XX-XX-1956" endPoint="XX-XX-2012" id="SET-78" quand="EVERY" sequence="مهرجان دمشق السينمائي الدولي" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1989" id="SET-79" quand="EVERY" sequence="مهرجان مرسيليا للفيلم الوثائقي" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1897" id="SET-80" quand="EVERY" sequence="مونتي كارلو للماسترز" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1897" id="SET-81" quand="EVERY" sequence="بطولة مونتي كارلو للتنس" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-2005" endPoint="XX-XX-2015" id="SET-82" quand="EVERY" sequence="أودلم براون فانكوفر المفتوحة" value="P1Y"/>
+<TIMEX3 beginPoint="XX-01-1988" id="SET-83" quand="EVERY" sequence="رويال رمبل" value="P1Y"/>
+<TIMEX3 beginPoint="05-10-2009" id="SET-84" quand="EVERY" sequence="شنغهاي للماسترز" value="P1Y"/>
+<TIMEX3 beginPoint="XX-12-2009" id="SET-85" quand="EVERY" sequence="تي إل سي" value="P1Y"/>
+<TIMEX3 beginPoint="XX-12-2009" id="SET-86" quand="EVERY" sequence=" مهرجان تي ال سي" value="P1Y"/>
+<TIMEX3 beginPoint="XX-07-2005" id="SET-87" quand="EVERY" sequence="مؤتمر ويكيمانيا" value="P1Y"/>
+<TIMEX3 beginPoint="XX-07-2005" id="SET-88" quand="EVERY" sequence="ويكيمانيا" value="P1Y"/>
+<TIMEX3 beginPoint="XX-11-2009" id="SET-89" quand="EVERY" sequence="بطولة مبادلة العالمية للتنس" value="P1Y"/>
+<TIMEX3 beginPoint="XX-11-2009" id="SET-90" quand="EVERY" sequence="بطولة المبادلة العالمية للتنس" value="P1Y"/>
+<TIMEX3 beginPoint="XX-03-1985" id="SET-91" quand="EVERY" sequence="راسلمينيا" value="P1Y"/>
+<TIMEX3 beginPoint="XX-03-1985" id="SET-92" quand="EVERY" sequence="مينيا" value="P1Y"/>
+<TIMEX3 beginPoint="12-10-XXXX" id="SET-93" quand="EVERY" sequence=" طواف لومبارديا" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-2019" id="SET-94" quand="EVERY" sequence=" الانتخابات الرئاسية الجزائرية" value="P5Y"/>
+<TIMEX3 beginPoint="15-02-1954" endPoint="15-02-2016" id="SET-95" quand="EVERY" sequence=" طواف مصر" value="P1Y"/>
+<TIMEX3 beginPoint="23-12-1933" id="SET-96" quand="EVERY" sequence="عيد ميلاد إمبراطور اليابان" value="P1Y"/>
+<TIMEX3 beginPoint="03-02-XXXX" id="SET-97" quand="EVERY" sequence="سيتسوبون" value="P1Y"/>
+<TIMEX3 beginPoint="XX-03-XXXX" id="SET-98" quand="EVERY" sequence="عيد الألوان" value="P1Y"/>
+<TIMEX3 beginPoint="XX-03-XXXX" id="SET-99" quand="EVERY" sequence="مهرجان هولي" value="P1Y"/>
+<TIMEX3 beginPoint="XX-03-XXXX" id="SET-100" quand="EVERY" sequence="مهرجان هولي فاغوا" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-03-XXXX" id="SET-101" quand="EVERY" sequence="هولي" value="P1Y"/> 
+<TIMEX3 beginPoint="23-04-XXXX" endPoint="30-04-XXXX" id="SET-102" quand="EVERY" sequence="أسبوع التحصين العالمي" value="P7D"/>   
+<TIMEX3 beginPoint="23-04-XXXX" endPoint="30-04-XXXX" id="SET-103" quand="EVERY" sequence="الحملة العالمية للصحة العامة" value="P7D"/>  
+<TIMEX3 beginPoint="20-11-1954" id="SET-104" quand="EVERY" sequence="يوم الطفل العالمي" value="P1Y"/> 
+<TIMEX3 beginPoint="20-11-1954" id="SET-105" quand="EVERY" sequence="يوم الأطفال" value="P1Y"/> 
+<TIMEX3 beginPoint="09-05-1950" id="SET-106" quand="EVERY" sequence="يوم أوروبا" value="P1Y"/> 
+<TIMEX3 beginPoint="09-05-1950" id="SET-107" quand="EVERY" sequence="إعلان شومان" value="P1Y"/> 
+<TIMEX3 beginPoint="08-06-1995" id="SET-108" quand="EVERY" sequence="اليوم العالمي للمحيطات" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-1979" id="SET-109" quand="EVERY" sequence="يوم القدس" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-1979" id="SET-110" quand="EVERY" sequence=" اليوم الدولي لمدينة القدس الشريف" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-1979" id="SET-111" quand="EVERY" sequence="يوم القدس العالمي" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-2004" id="SET-112" quand="EVERY" sequence="يوم حرية البرمجيات" value="P1Y"/> 
+<TIMEX3 beginPoint="21-09-1981" id="SET-113" quand="EVERY" sequence="اليوم العالمي للسلام" value="P1Y"/>
+<TIMEX3 beginPoint="25-07-XXXX" id="SET-114" quand="EVERY" sequence="يوم الحرية" value="P1Y"/>
+<TIMEX3 beginPoint="20-06-XXXX" id="SET-115" quand="EVERY" sequence="عيد البحر" value="P1Y"/>
+<TIMEX3 beginPoint="26-01-1950" id="SET-116" quand="EVERY" sequence="اليوم الجمهوري" value="P1Y"/>
+<TIMEX3 beginPoint="05-06-1972" id="SET-117" quand="EVERY" sequence="اليوم العالمي للبيئة" value="P1Y"/>
+<TIMEX3 beginPoint="14-09-XXXX" id="SET-118" quand="EVERY" sequence="عيد الصليب" value="P1Y"/>
+<TIMEX3 beginPoint="25-03-XXXX" id="SET-119" quand="EVERY" sequence="عيد البشارة" value="P1Y"/>
+<TIMEX3 beginPoint="06-01-XXXX" id="SET-120" quand="EVERY" sequence="عيد الظهور الإلهي" value="P1Y"/>
+<TIMEX3 beginPoint="03-03-XXXX" id="SET-121" quand="EVERY" sequence="اليوم العالمي للأحياء البرية" value="P1Y"/>
+<TIMEX3 beginPoint="06-01-XXXX" id="SET-122" quand="EVERY" sequence="عيد العماد" value="P1Y"/>
+<TIMEX3 beginPoint="06-01-XXXX" id="SET-123" quand="EVERY" sequence=" عيد الدنح" value="P1Y"/>
+<TIMEX3 beginPoint="06-01-XXXX" id="SET-124" quand="EVERY" sequence="عيد الغطاس" value="P1Y"/>
+<TIMEX3 beginPoint="24-12-XXXX" endPoint="25-12-XXXX" id="SET-125" quand="EVERY" sequence="ميلاد يسوع المسيح" value="P1Y"/>
+<TIMEX3 beginPoint="01-12-XXXX" id="SET-126" quand="EVERY" sequence="يوم الوحدة" value="P1Y"/>
+<TIMEX3 beginPoint="24-12-XXXX" endPoint="25-12-XXXX" id="SET-127" quand="EVERY" sequence="عيد ميلاد يسوع المسيح" value="P1Y"/>
+<TIMEX3 beginPoint="03-03-XXXX" id="SET-128" quand="EVERY" sequence="اليوم العالمي للحياة البرية" value="P1Y"/>
+<TIMEX3 beginPoint="30-08-XXXX" id="SET-129" quand="EVERY" sequence="اليوم الدولي للمختفين" value="P1Y"/>
+<TIMEX3 beginPoint="15-08-1947" id="SET-130" quand="EVERY" sequence="عيدا لاستقلال الهند" value="P1Y"/>
+<TIMEX3 beginPoint="15-08-1947" id="SET-131" quand="EVERY" sequence="يوم الاستقلال الهندي" value="P1Y"/>
+<TIMEX3 beginPoint="15-08-1947" id="SET-132" quand="EVERY" sequence="يوم استقلال الهند" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-1968" id="SET-133" quand="EVERY" sequence="بطولة أمم أوروبا لكرة القدم " value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-134" quand="EVERY" sequence="تصفيات كأس العالم لكرة القدم" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-135" quand="EVERY" sequence="تصفيات أمريكا الشمالية لكأس العالم لكرة القدم " value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-136" quand="EVERY" sequence="بطولة العالم للشباب لكرة القدم" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-137" quand="EVERY" sequence="نهائي كأس ألمانيا" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-138" quand="EVERY" sequence="نهائي دوري أبطال أوروبا" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-139" quand="EVERY" sequence="نهائي دوري أوروبا" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-140" quand="EVERY" sequence="دوري أبطال أوروبا " value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-141" quand="EVERY" sequence="دوري أوروبا" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-142" quand="EVERY" sequence="الانتخابات التشريعية العراقية" value="P4Y"/>		
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-143" quand="EVERY" sequence="كأس أفريقيا للأندية البطلة " value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-144" quand="EVERY" sequence="نهائي الدرع الخيرية" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-145" quand="EVERY" sequence="كأس أفريقيا للأندية البطلة" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-146" quand="EVERY" sequence="نهائي الدرع الخيرية" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-1976" id="SET-147" quand="EVERY" sequence="نهائي كأس الاتحاد الأوروبي" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-1977" id="SET-148" quand="EVERY" sequence="كأس أفريقيا للأندية البطلة" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-1977" id="SET-149" quand="EVERY" sequence="كأس السوبر الأوروبي" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-1977" id="SET-150" quand="EVERY" sequence="نهائي الدرع الخيرية" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-151" quand="EVERY" sequence="نهائي كأس الرابطة الإنجليزية " value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-152" quand="EVERY" sequence="بطولة آسيا تحت 16 سنة لكرة القدم" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-1998" id="SET-153" quand="EVERY" sequence="بطولة اتحاد آسيان لكرة القدم" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-1999" id="SET-154" quand="EVERY" sequence="كأس الإنتركونتيننتال" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-155" quand="EVERY" sequence="تصفيات كأس آسيا" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-156" quand="EVERY" sequence="درع الاتحاد الإنجليزي" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-157" quand="EVERY" sequence="كأس ولي العهد البحريني لكرة القدم" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-158" quand="EVERY" sequence="بطولة آسيا للنساء تحت 19 سنة لكرة القدم" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-159" quand="EVERY" sequence="كأس ولي العهد البحريني لكرة القدم" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-160" quand="EVERY" sequence="تصفيات كأس العالم لكرة القدم" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-161" quand="EVERY" sequence="" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-162" quand="EVERY" sequence="دوري أبطال آسيا" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-163" quand="EVERY" sequence="كأس ولي العهد البحريني لكرة القدم" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-164" quand="EVERY" sequence="تصفيات كأس آسيا" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-165" quand="EVERY" sequence="نهائي كأس آسيا" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-166" quand="EVERY" sequence="بطولة آسيان لكرة القدم " value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-167" quand="EVERY" sequence="دوري أبطال أفريقيا" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-168" quand="EVERY" sequence="كأس ملك البحرين لكرة القدم" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-169" quand="EVERY" sequence="كأس السوبر الألماني" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-170" quand="EVERY" sequence="سباق جائزة البحرين الكبرى" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-171" quand="EVERY" sequence="بطولة غرب آسيا لكرة الصالات للسيدات" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-2013" id="SET-172" quand="EVERY" sequence="كأس سيكافا" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-173" quand="EVERY" sequence="كأس الخليج للمنتخبات الأولمبية" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-06-XXXX" endPoint="XX-07-XXXX" id="SET-174" quand="EVERY" sequence="بطولة ويمبلدون " value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-175" quand="EVERY" sequence="كأس ولي العهد" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-176" quand="EVERY" sequence="كأس السوبر السعودي" value="P1Y"/>	
+<TIMEX3 beginPoint="15-01-XXXX" endPoint="30-01-XXXX" id="SET-177" quand="EVERY" sequence="أستراليا المفتوحة" value="P1Y"/>	
+<TIMEX3 beginPoint="15-01-XXXX" endPoint="30-01-XXXX" id="SET-178" quand="EVERY" sequence="بطولة استراليا المفتوحة للتنس" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-179" quand="EVERY" sequence="تصفيات كأس العالم لكرة القدم " value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-180" quand="EVERY" sequence="تصفيات بطولة كأس العالم لكرة القدم " value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-181" quand="EVERY" sequence="بطولة العالم للناشئين لألعاب القوى" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-182" quand="EVERY" sequence="الألعاب الجامعية الصيفية" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-183" quand="EVERY" sequence="ألعاب عموم أفريقيا" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-184" quand="EVERY" sequence="دورة الألعاب العربية" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-186" quand="EVERY" sequence="الألعاب الجامعية الصيفية" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-187" quand="EVERY" sequence="الألعاب الآسيوية الشتوية" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-188" quand="EVERY" sequence="" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-189" quand="EVERY" sequence="" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-190" quand="EVERY" sequence="الألعاب البارالمبية الشتوية" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-191" quand="EVERY" sequence="دورة ألعاب الكومنولث" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-192" quand="EVERY" sequence="دورة الألعاب الأمريكية" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-193" quand="EVERY" sequence="دورة الألعاب الآسيوية داخل الصالات" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-194" quand="EVERY" sequence="كوبا أمريكا" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-195" quand="EVERY" sequence="جائزة بلجيكا الكبرى" value="P1Y"/>	
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-196" quand="EVERY" sequence="جائزة فرنسا الكبرى" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-197" quand="EVERY" sequence="جائزة إيطاليا الكبرى" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-198" quand="EVERY" sequence="جائزة سويسرا الكبرى" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-199" quand="EVERY" sequence="جائزة بريطانيا الكبرى" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-200" quand="EVERY" sequence="جائزة ألمانيا الكبرى" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-201" quand="EVERY" sequence="جائزة إسبانيا الكبرى" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-202" quand="EVERY" sequence="جائزة هولندا الكبرى" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-203" quand="EVERY" sequence="جائزة الأرجنتين الكبرى" value="P1Y"/>
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-204" quand="EVERY" sequence="جائزة البرتغال الكبرى" value="P1Y"/>	  
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-205" quand="EVERY" sequence="جائزة الولايات المتحدة الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-206" quand="EVERY" sequence="جائزة جنوب أفريقيا الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-207" quand="EVERY" sequence="جائزة المكسيك الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-208" quand="EVERY" sequence="جائزة النمسا الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-209" quand="EVERY" sequence="جائزة كندا الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-210" quand="EVERY" sequence="جائزة البرازيل الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-211" quand="EVERY" sequence="جائزة السويد الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-212" quand="EVERY" sequence="جائزة اليابان الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-213" quand="EVERY" sequence="جائزة سان مارينو الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-214" quand="EVERY" sequence="جائزة دالاس الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-215" quand="EVERY" sequence="جائزة أستراليا الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-216" quand="EVERY" sequence="جائزة المجر الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-217" quand="EVERY" sequence="كأس أمريكا الجنوبية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-218" quand="EVERY" sequence="بطولة أوقيانوسيا تحت 17 سنة" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-219" quand="EVERY" sequence="نهائي كأس الدوري الفرنسي" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-220" quand="EVERY" sequence="كأس اتحاد الدول المستقلة" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-221" quand="EVERY" sequence="مهرجان كان السينمائي" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-222" quand="EVERY" sequence="كأس قبرص" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-223" quand="EVERY" sequence="كأس الكونكاكاف الذهبية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-224" quand="EVERY" sequence="ألعاب البحر الأبيض المتوسط" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-225" quand="EVERY" sequence="ألعاب عموم أفريقيا" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-226" quand="EVERY" sequence="الألعاب الآسيوية الشتوية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-227" quand="EVERY" sequence="كأس كوسافا" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-228" quand="EVERY" sequence="كرة القدم في الألعاب الأولمبية الصيفية" value="P4Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-229" quand="EVERY" sequence="دورة الألعاب العسكرية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-230" quand="EVERY" sequence="الألعاب البارالمبية الصيفية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-231" quand="EVERY" sequence="ألعاب المحيط الهادئ" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-232" quand="EVERY" sequence="الألعاب الأولمبية الشتوية للشباب" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-233" quand="EVERY" sequence="الألعاب الفرانكوفونية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-234" quand="EVERY" sequence="كرة القدم في دورة ألعاب جنوب المحيط الهادي" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-235" quand="EVERY" sequence="الدوري المصري الممتاز" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-236" quand="EVERY" sequence="تصفيات كأس الأمم الأفريقية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-237" quand="EVERY" sequence="كأس فلسطين" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-238" quand="EVERY" sequence="كأس آسيا لكرة القدم للسيدات " value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-239" quand="EVERY" sequence="نهائي كأس أوروبا" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-240" quand="EVERY" sequence="كأس السوبر الآسيوي" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-241" quand="EVERY" sequence="كأس العرب لكرة القدم" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-242" quand="EVERY" sequence="بطولة الأندية العربية لأبطال الدوري" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-243" quand="EVERY" sequence="كأس أبطال الكؤوس الآسيوية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-244" quand="EVERY" sequence="بطولة آسيا لكرة القدم الخماسية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-245" quand="EVERY" sequence="كأس الكؤوس الآسيوية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-246" quand="EVERY" sequence="ألعاب أفرو-آسيوية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-247" quand="EVERY" sequence="كأس السوبر الأوروبي " value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-248" quand="EVERY" sequence="دوري أبطال أوروبا " value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-249" quand="EVERY" sequence="البطولة العربية لكرة القدم الخماسية " value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-250" quand="EVERY" sequence="كأس الجزائر " value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-251" quand="EVERY" sequence="كأس اتصالات للمحترفين " value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-252" quand="EVERY" sequence="كأس العالم لكرة القدم الشاطئية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-253" quand="EVERY" sequence="دوري أبطال أوروبا " value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-254" quand="EVERY" sequence="نهائي كأس القارات " value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-255" quand="EVERY" sequence="بطولة العالم لنصف الماراثون " value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-256" quand="EVERY" sequence="كأس خادم الحرمين الشريفين للأبطال" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-257" quand="EVERY" sequence="بطولة تولون الدولية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-258" quand="EVERY" sequence="كأس رئيس تركمنستان" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-259" quand="EVERY" sequence="بطولة أمم أفريقيا للمحليين " value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-260" quand="EVERY" sequence="كأس السوبر الأفريقي" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-261" quand="EVERY" sequence="دورة حوض النيل" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-262" quand="EVERY" sequence="كأس السوبر الإسباني" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-263" quand="EVERY" sequence="كأس السوبر الأوروبي" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-264" quand="EVERY" sequence="كأس التحدي الآسيوي" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-265" quand="EVERY" sequence="كأس القارات" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-266" quand="EVERY" sequence="كوبا أمريكا" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-267" quand="EVERY" sequence="كأس العالم لكرة القدم" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-268" quand="EVERY" sequence="ألعاب أمريكا الوسطى والكاريبي" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-269" quand="EVERY" sequence="الانتخابات العامة في جنوب أفريقيا" value="P4Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-270" quand="EVERY" sequence="الانتخابات الرئاسية الأفغانية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-271" quand="EVERY" sequence="الانتخابات الرئاسية الجزائرية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-272" quand="EVERY" sequence="الانتخابات الرئاسية النمساوية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-273" quand="EVERY" sequence="انتخابات المجلس التأسيسي البحرينية" value="P4Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-274" quand="EVERY" sequence="الانتخابات النيابية البحرينية" value="P2Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-275" quand="EVERY" sequence="الانتخابات الرئاسية الفنلندية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-276" quand="EVERY" sequence="الانتخابات البرلمانية الفنلندية" value="P2Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-277" quand="EVERY" sequence="الانتخابات العامة في البوسنة" value="P3Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-278" quand="EVERY" sequence="الانتخابات التشريعية المغربية" value="P4Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-279" quand="EVERY" sequence="الانتخابات الرئاسية الأوكرانية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-280" quand="EVERY" sequence="الانتخابات الرئاسية اليمنية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-281" quand="EVERY" sequence="ألعاب مكابيه " value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-282" quand="EVERY" sequence="الانتخابات التشريعية التونسية" value="P4Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-283" quand="EVERY" sequence="الانتخابات التشريعية التركية" value="P4Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-284" quand="EVERY" sequence="الانتخابات الرئاسية في سوريا" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-285" quand="EVERY" sequence="الانتخابات التشريعية السورية" value="P4Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-286" quand="EVERY" sequence="الانتخابات الرئاسية الكينية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-287" quand="EVERY" sequence="الانتخابات الرئاسية الفرنسية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-288" quand="EVERY" sequence="الانتخابات الفيديرالية الألمانية" value="P2Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-289" quand="EVERY" sequence="الانتخابات التشريعية الجزائرية" value="P4Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-290" quand="EVERY" sequence="كأس السوبر الإماراتي" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-291" quand="EVERY" sequence="الانتخابات العامة التشيلية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-292" quand="EVERY" sequence="الانتخابات الرئاسية الكولومبية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-293" quand="EVERY" sequence="الانتخابات الرئاسية الكرواتية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-1890" id="SET-294" quand="EVERY" sequence="بطولة أمريكا المفتوحة" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-295" quand="EVERY" sequence="الانتخابات الرئاسية التشيكية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-296" quand="EVERY" sequence="الانتخابات الرئاسية الإندونيسية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-08-1881" id="SET-297" quand="EVERY" sequence="بطولة أمريكا المفتوحة" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-08-1881" id="SET-298" quand="EVERY" sequence="بطولة أمريكا المفتوحة للتنس" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-299" quand="EVERY" sequence="الانتخابات العامة في كمبوديا" value="P2Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-300" quand="EVERY" sequence="الانتخابات الرئاسية المنغولية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-301" quand="EVERY" sequence="الانتخابات البرلمانية النرويجية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-2013" endPoint="XX-XX-2016" id="SET-302" quand="EVERY" sequence="بايباك" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-303" quand="EVERY" sequence="كأس أنترتوتو" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-304" quand="EVERY" sequence="بطولة ميونخ للتنس" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-305" quand="EVERY" sequence="بطولة البرازيل المفتوحة للتنس" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-306" quand="EVERY" sequence="بطولة تشيلي للتنس" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-307" quand="EVERY" sequence="بطولة كولومبيا المفتوحة للتنس" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-308" quand="EVERY" sequence="بطولة قطر المفتوحة للسيدات" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-309" quand="EVERY" sequence="بطولة روزمالين العشبية للتنس" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-310" quand="EVERY" sequence="بطولة روتردام للتنس" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-311" quand="EVERY" sequence="رويال رمبل" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-312" quand="EVERY" sequence="دورة ألعاب الإمبراطورية البريطانية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-313" quand="EVERY" sequence="أوكلاند المفتوحة للسيدات" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-314" quand="EVERY" sequence="طشقند المفتوحة" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-315" quand="EVERY" sequence="بطولة هيوستن للتنس" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-316" quand="EVERY" sequence="كوبا أمريكا" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-317" quand="EVERY" sequence="مستر أولمبيا" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-318" quand="EVERY" sequence="جائزة سنغافورة الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-319" quand="EVERY" sequence="رالي ويلز" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-320" quand="EVERY" sequence="بطولة فلسطين الدولية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-321" quand="EVERY" sequence="جائزة نيوزيلندا الكبرى" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-322" quand="EVERY" sequence="بطولة مدريد للماسترز" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-323" quand="EVERY" sequence="بطولة قطر المفتوحة " value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-324" quand="EVERY" sequence="بطولة قطر المفتوحة للتنس" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-325" quand="EVERY" sequence="طواف دبي" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-326" quand="EVERY" sequence="بطولة كيتو المفتوحة للتنس" value="P1Y"/> 
+<TIMEX3 beginPoint="30-09-XXXX" endPoint="02-10-XXXX" id="SET-327" quand="EVERY" sequence="يوم اللاعبين" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-328" quand="EVERY" sequence="بطولة ممفيس المفتوحة للتنس" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-329" quand="EVERY" sequence="بطولة ريو للتنس" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-01-1988" id="SET-330" quand="EVERY" sequence="رويال رامبل" value="P1Y"/> 
+<TIMEX3 beginPoint="23-11-1987" id="SET-331" quand="EVERY" sequence="سرفايفر سيريس" value="P1Y"/> 
+<TIMEX3 beginPoint="20-02-XXXX" id="SET-332" quand="EVERY" sequence="مسيرة الأربعين" value="P1Y"/> 
+<TIMEX3 beginPoint="20-07-XXXX" endPoint="12-08-XXXX" id="SET-333" quand="EVERY" sequence="مهرجان العبادلة الأثري الدولي" value="P2M"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-334" quand="EVERY" sequence="" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-2019" id="SET-335" quand="EVERY" sequence="الانتخابات الرئاسية التونسية" value="P5Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-336" quand="EVERY" sequence="بطولة إسطنبول المفتوحة" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-03-XXXX" id="SET-337" quand="EVERY" sequence="ماتروناليا" value="P1Y"/> 
+<TIMEX3 beginPoint="30-03-1976" id="SET-338" quand="EVERY" sequence="يوم الأرض الفلسطيني" value="P1Y"/> 
+<TIMEX3 beginPoint="16-11-1995" id="SET-339" quand="EVERY" sequence="اليوم العالمي للتسامح" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-06-896" id="SET-340" quand="EVERY" sequence="مهرجان غيون" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-05-XXXX" id="SET-341" quand="EVERY" sequence="عيد ميلاد بوذا" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-10-XXXX" id="SET-342" quand="EVERY" sequence="عيد الشكر" value="P1Y"/> 
+<TIMEX3 beginPoint="11-06-1989" id="SET-343" quand="EVERY" sequence="اليوم العالمي للسكان" value="P1Y"/> 
+<TIMEX3 beginPoint="04-11-XXXX" id="SET-344" quand="EVERY" sequence="يوم الوحدة الوطنية" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-345" quand="EVERY" sequence="سلافا" value="P1Y"/> 
+<TIMEX3 beginPoint="25-03-XXXX" id="SET-346" quand="EVERY" sequence="البشارة" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-XX-XXXX" id="SET-347" quand="EVERY" sequence="عيد الأسابيع" value="P1Y"/> 
+<TIMEX3 beginPoint="21-03-XXXX" id="SET-348" quand="EVERY" sequence="نوروز" value="P1Y"/> 
+<TIMEX3 beginPoint="04-02-XXXX" id="SET-349" quand="EVERY" sequence="اليوم العالمي للسرطان" value="P1Y"/> 
+<TIMEX3 beginPoint="XX-02-XXXX" id="SET-350" quand="EVERY" sequence="أحد التوحد" value="P1Y"/> 
+<TIMEX3 beginPoint="01-10-1977" id="SET-351" quand="EVERY" sequence="اليوم العالمي للنباتيين" value="P1Y"/> 
+<TIMEX3 beginPoint="31-08-XXXX" id="SET-352" quand="EVERY" sequence="اليوم العالمي دون تدخين" value="P1Y"/> 
+<TIMEX3 beginPoint="13-02-XXXX" id="SET-353" quand="EVERY" sequence="اليوم العالمي للإذاعة" value="P1Y"/> 
+<TIMEX3 beginPoint="20-03-2010" id="SET-354" quand="EVERY" sequence="اليوم العالمي للغة الفرنسية" value="P1Y"/> 
+<TIMEX3 beginPoint="23-04-XXXX" id="SET-355" quand="EVERY" sequence="اليوم العالمي للغة الإنجليزية" value="P1Y"/> 
+<TIMEX3 beginPoint="18-12-XXXX" id="SET-356" quand="EVERY" sequence="اليوم العالمي للغة العربية" value="P1Y"/> 
+<TIMEX3 beginPoint="18-12-1878" id="SET-357" quand="EVERY" sequence="اليوم الوطني لقطر" value="P1Y"/> 
+<TIMEX3 beginPoint="22-03-XXXX" id="SET-358" quand="EVERY" sequence="يوم الماء العالمي" value="P1Y"/> 
+<TIMEX3 beginPoint="17-04-1946" id="SET-359" quand="EVERY" sequence="عيد الجلاء سوريا" value="P1Y"/> 
+<TIMEX3 beginPoint="09-02-1952" endPoint="19-02-1952" id="SET-360" quand="EVERY" sequence="مهرجان برلين السينمائي الدولي" value="P1Y"/> 
+</SET>
+</lexicon>
